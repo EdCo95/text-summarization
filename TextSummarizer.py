@@ -4,6 +4,7 @@
 # Global variables and imports
 from Summarizers.Summarizer import Summarizer
 from Summarizers.SummarizeBySentenceAnalysis import SummarizeBySentenceAnalysis
+from Summarizers.SummarizeNoQuotes import SummarizeNoQuotes
 
 DEBUG = True
 
@@ -18,7 +19,7 @@ class TextSummarizer(object):
     def __init__(self, article):
         self._article = article
         self._summary = ""
-        self._summarizer = SummarizeBySentenceAnalysis(0.2)
+        self._summarizer = SummarizeNoQuotes(0.2)
 
     @property
     def article(self):

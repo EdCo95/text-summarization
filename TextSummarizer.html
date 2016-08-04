@@ -36,10 +36,14 @@
 <td colspan=2><tt>Takes&nbsp;a&nbsp;piece&nbsp;of&nbsp;text,&nbsp;for&nbsp;example&nbsp;a&nbsp;news&nbsp;article,&nbsp;and&nbsp;automatically&nbsp;generates&nbsp;a&nbsp;summary&nbsp;of&nbsp;it.&nbsp;Designed&nbsp;according&nbsp;to&nbsp;the&nbsp;strategy&nbsp;design&nbsp;pattern.<br>
 &nbsp;<br>
 Attributes:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;article&nbsp;to&nbsp;summarize.<br>&nbsp;</tt></td></tr>
+&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;article&nbsp;to&nbsp;summarize.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;summary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;summary&nbsp;of&nbsp;the&nbsp;article.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;summarizer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;<a href="__builtin__.html#object">object</a>&nbsp;used&nbsp;to&nbsp;summarize&nbsp;the&nbsp;article.<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%">Methods defined here:<br>
 <dl><dt><a name="TextSummarizer-__init__"><strong>__init__</strong></a>(self, article)</dt></dl>
+
+<dl><dt><a name="TextSummarizer-summarize"><strong>summarize</strong></a>(self)</dt><dd><tt>Takes&nbsp;the&nbsp;article&nbsp;and&nbsp;produces&nbsp;a&nbsp;summary&nbsp;of&nbsp;it.</tt></dd></dl>
 
 <hr>
 Data descriptors defined here:<br>
@@ -50,6 +54,10 @@ Data descriptors defined here:<br>
 <dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
 </dl>
 <dl><dt><strong>article</strong></dt>
+</dl>
+<dl><dt><strong>summarizer</strong></dt>
+</dl>
+<dl><dt><strong>summary</strong></dt>
 </dl>
 </td></tr></table></td></tr></table><p>
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
