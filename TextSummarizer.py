@@ -19,7 +19,7 @@ class TextSummarizer(object):
     def __init__(self, article):
         self._article = article
         self._summary = ""
-        self._summarizer = SummarizeNoQuotes(0.2)
+        self._summarizer = SummarizeBySentenceAnalysis(0.2)
 
     @property
     def article(self):
