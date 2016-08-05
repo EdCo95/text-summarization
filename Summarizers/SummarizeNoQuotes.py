@@ -13,7 +13,7 @@ import string
 import math
 
 class SummarizeNoQuotes(Summarizer):
-    """Summarizes articles by analysing each sentence in the article and then giving it a score. The highest scored sentences are kept which generate a summary of the article. This version ignore all quotations."""
+    """Summarizes articles by analysing each sentence in the article and then giving it a score. The highest scored sentences are kept which generate a summary of the article. This version ignores all quotations."""
 
     def __init__(self, summary_percentage):
         self._article = ""

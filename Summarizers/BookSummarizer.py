@@ -5,21 +5,24 @@
 from Summarizer import Summarizer
 from MetricCalculators.MetricCalculator import MetricCalculator
 from MetricCalculators.BasicCalculator import BasicCalculator
+from MetricCalculators.BookCalculator import BookCalculator
 from nltk.tokenize import sent_tokenize
 from nltk.corpus import stopwords
 from file_reader import Reader
 from operator import itemgetter
 import string
 import math
+import unicodedata
+import sys
 
-class SummarizeBySentenceAnalysis(Summarizer):
-    """Summarizes articles by analysing each sentence in the article and then giving it a score. The highest scored sentences are kept which generate a summary of the article."""
+class BookSummarizer(Summarizer):
+    """Summarizes books by analysing each sentence in the article and then giving it a score. The highest scored sentences are kept which generate a summary of the article. It is adapted from the article summarizer to deal with far longer passeges of text. It doesn't work very well yet - be warned."""
 
     def __init__(self, summary_percentage):
         self._article = ""
         self._summary = ""
         self._summary_percentage = summary_percentage
-        self._metric_calculator = BasicCalculator()
+        self._metric_calculator = BookCalculator()
 
     @property
     def article(self):
@@ -116,9 +119,9 @@ class SummarizeBySentenceAnalysis(Summarizer):
 
     def separateSentences(self, article):
         """This method returns a list of tuples of the form (sentence, sentence with formatting removed). The sentences with formatting removed are necessary for scorring the sentences."""
-
         sentence_list = sent_tokenize(article)
         raw_list = []
+
         for sentence in sentence_list:
             formated_sentence = sentence.lower()
             formated_sentence = formated_sentence.translate(string.maketrans("", ""), string.punctuation)
@@ -142,7 +145,8 @@ class SummarizeBySentenceAnalysis(Summarizer):
 
         # Calculate how many sentences should be included in the summary as a percentage of the total number in the article
         num_of_sentences = len(sentences_and_scores)
-        sentences_to_summarize = int(math.ceil(num_of_sentences * self.summary_percentage))
+        #sentences_to_summarize = int(math.ceil(num_of_sentences * self.summary_percentage))
+        sentences_to_summarize = 5
 
         # Get the sentences that summarize the article
         summary_sentences = sentences_and_scores[0:sentences_to_summarize]
@@ -154,7 +158,7 @@ class SummarizeBySentenceAnalysis(Summarizer):
         summary = ""
 
         for item in ordered_summary_sentences:
-            summary += " " + item[0][0]
+            summary += " " + item[0][0] + "\n\n"
 
         return summary
 
@@ -163,7 +167,7 @@ class SummarizeBySentenceAnalysis(Summarizer):
 
         print "\n\n"
         print "\t\t*****************************************"
-        print "\t\t************ ARTICLE SUMMARY ************"
+        print "\t\t************ BOOK SUMMARY ***************"
         print "\t\t*****************************************"
         print "\n\n"
         print summary

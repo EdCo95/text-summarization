@@ -5,6 +5,7 @@
 from Summarizers.Summarizer import Summarizer
 from Summarizers.SummarizeBySentenceAnalysis import SummarizeBySentenceAnalysis
 from Summarizers.SummarizeNoQuotes import SummarizeNoQuotes
+from Summarizers.BookSummarizer import BookSummarizer
 
 DEBUG = True
 
@@ -19,7 +20,7 @@ class TextSummarizer(object):
     def __init__(self, article):
         self._article = article
         self._summary = ""
-        self._summarizer = SummarizeBySentenceAnalysis(0.2)
+        self._summarizer = SummarizeBySentenceAnalysis(0.1)
 
     @property
     def article(self):
