@@ -1,0 +1,11 @@
+Earth's Core Is Younger Than We Thought
+Without a Tardis, a journey to the center of the Earth might be your best option for traveling to the past. Because of the way gravity warps spacetime, physicists have now calculated that the Earth’s core is 2.5 years younger than its surface.
+
+This represents a much more significant time dilation effect than anybody realized. During a lecture at Caltech in the 1960s, the esteemed Richard Feynman first pointed out that the center of the Earth would be younger than the surface, owing to a fascinating outcome of Einstein’s general theory of relativity: clocks run more slowly when positioned closer to a large gravitational mass.
+
+But Feynman said that the center of the Earth would be “a day or two younger,” than the surface. And apparently, nobody ever bothered to check the math. Like an internet meme gone so viral that politicians cite it with certitude, that “day or two younger” figure was repeated in lectures and textbooks the world over.
+
+Now, a team of Danish physicists has performed a simple back-of-the-envelope calculation that suggests the true age difference between the core and the surface is approximately two and a half years (owing to physics alone and neglecting geological processes). The calculation, they explain in a paper published in the European Journal of Physics, was not intended to besmirch Feynman’s reputation, but rather to point out that many numbers scientists accept as fact have murky origins, and really ought to be re-verified from time to time:
+
+Scientists must to a large extent rely on the validation of other fellow’s work, and it happens to be a psychological default condition among many (scientists), that if a famous peer has publicly announced a result, it is accepted at face value. This seems also to be the situation in the case of the flawed estimate of the relativistic age of the Earth’s core.
+As for the new calculation, the authors argue that Feynman—who famously trusted nobody’s math but his own—would have been happy to see the mistake corrected.

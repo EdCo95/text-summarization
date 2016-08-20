@@ -1,0 +1,63 @@
+Why the World Is Drawing Battle Lines Against American Tech Giants
+Imagine you are a French lawmaker. For decades, you have protected your nation’s cultural output with the diligence of a gardener tending a fragile patch against invasive killer weeds.
+
+You have imposed quotas on the French film industry, required radio stations to play more French music than anyone seems to want to listen to, and you have worked methodically to exempt your actions from international free-trade rules.
+
+And now, out of nowhere, come a handful of American technology companies to wash away all your cultural defenses. Suddenly just about everything that a French citizen buys, reads, watches or listens to flows in some way or another through these behemoths.
+
+There is Facebook co-opting your news media. Amazon is dominating book sales, while YouTube and Netflix are taking over television and movies. And the smartphone, arguably the most important platform for entertainment in this era, is controlled almost entirely by Apple and Google.
+
+This backdrop of social anxiety explains why Europe is on the march against American tech giants. European governments have been at the forefront of an effort to limit the reach of tech companies, most often through privacy regulations and antitrust investigations. Now the European Commission is considering rules that would require streaming companies like Netflix to carry and even pay for local content in the markets they serve.
+
+The European efforts are just a taste of a coming global freak-out over the power of the American tech industry. Over the next few years, we are bound to see increasing friction between the tiny group of tech companies that rule much of the industry and the governments that rule the lands those companies are trying to invade. What is happening in Europe is playing out in China, India and Brazil and across much of the rest of the globe, as well.
+
+The result is fragmentation. Once, not too long ago, many in the tech industry thought that digital technology would bring about the dawn of a new global order.
+
+Continue reading the main story
+
+RELATED COVERAGE
+
+
+How Europe Is Going After Google, Amazon and Other U.S. Tech Giants APRIL 13, 2015
+
+Europe Seeks Greater Control Over Digital Services MAY 25, 2016
+
+China Quietly Targets U.S. Tech Companies in Security Reviews MAY 16, 2016
+The internet’s structure was decentralized and nonhierarchical; it therefore seemed immune to control by any single government. Under this dream, the network would bridge vast distances and connect cultures, creating a new system of legal norms that were more uniform around the world.
+
+But that is not how it has been playing out.
+
+“My assumption is that this is only the beginning,” said Dongsheng Zang, director of the Asian Law Center at the University of Washington School of Law. “We’ll be seeing more of these governments make their own demands, and the problem is a fragmentation of the global tech companies.” He added, “This could be a problem for America in the 21st century.”
+
+This dynamic may not sound very new. Whether it comes to taxes, privacy, free speech or security, national governments have always sought to impose rules on transnational corporations.
+
+But the battle with tech giants promises to be more spectacular. Over the last decade, we have witnessed the rise of what I like to call the Frightful Five. These companies — Apple, Amazon, Facebook, Microsoft and Alphabet, Google’s parent — have created a set of inescapable tech platforms that govern much of the business world. The five have grown expansive in their business aims and invincible to just about any competition. Their collective powers are a source of pride and fear for Americans. These companies thoroughly dominate the news and entertainment industries, they rule advertising and retail sales, and they are pushing into health care, energy and automobiles.
+
+For all the disruptions, good and bad, Americans may experience as a result of the rise of the Frightful Five, there is one saving grace: The companies are American. Not only were they founded by Americans and have their headquarters here (complicated global tax structures notwithstanding), but they all tend to espouse American values like free trade, free expression and a skepticism of regulation.
+Until the surveillance revealed by the National Security Agency contractor Edward J. Snowden, many American tech companies were also more deferential to the American government, especially its requests for law enforcement help.
+
+In the rest of the world, the Americanness of the Frightful Five is often seen as a reason for fear, not comfort. In part that is because of a worry about American hegemony. The bigger these companies get, the less room they leave for local competition — and the more room for possible spying by the United States government.
+
+But even if that idea sounds hyperbolic (but it doesn’t, right?), there is a deeper fear of usurpation through tech — a worry that these companies could grow so large and become so deeply entrenched in world economies that they could effectively make their own laws.
+
+“What’s happening right now is the nation-state is losing its grip,” said Jane K. Winn, also a professor at the University of Washington School of Law, who studies international business transactions. “One of the hallmarks of modernity is that you have a nation-state that claims they are the exclusive source of a universal legal system that addresses all legal issues. But now people in one jurisdiction are subject to rules that come from outside the government — and often it’s companies that run these huge networks that are pushing their own rules.”
+
+Ms. Winn pointed to Amazon as an example. The e-commerce giant sells both its own goods and those from other merchants through its marketplace. In this way, it imposes a universal set of rules on many merchants in countries in which it operates. The larger Amazon gets, the more its rules — rather than any particular nation’s — can come to be regarded as the most important regulations governing commerce. And because Amazon tends to focus on customer service rather than other values a country might want to prioritize — fraud protection or workers’ rights, say — the company could end up becoming the world’s most powerful consumer protection agency, but one that is unaccountable to some governments.
+
+The same dynamic would apply to other companies’ platforms. Rules imposed by the Apple and Google app stores become a kind of law for developers around the world. YouTube’s guidelines become a cultural arbiter anywhere it operates.
+
+And Facebook’s news feed algorithm may matter more to journalists in some countries than any particular legal limit on their operations.
+
+How will governments stop the tech companies from expanding their powers? By placing ever higher burdens on them to limit their reach, something we have seen happening more often.
+
+In addition to all the moves in Europe, the Indian government just stopped Apple’s plan to sell refurbished iPhones in the country. That came after its move to shut down Facebook’s free internet plan, which had been widely criticized there as a kind of Trojan horse to take over India’s digital infrastructure.
+
+In China, Apple shut down the iBooks and iTunes Movies stores, apparently after facing pressure from the government.
+
+Apple also invested $1 billion in Didi Chuxing, China’s homegrown version of Uber, a surprising move that was interpreted by China watchers as a way to curry favor with an increasingly aggressive government.
+
+Nobody knows yet who will win these fights. The American tech giants are huge, but they need the blessing of national governments, and those blessings aren’t coming easily.
+
+“They’re facing an increasingly self-confident India, Brazil and China,” Mr. Zang said. “If they don’t back down, they probably have leverage to impose lots of different rules to limit how these companies reach into local markets.”
+
+Or as the French newspaper Le Monde declared on the eve of Netflix’s debut in France, “Que le carnage commence!” Let the carnage commence!

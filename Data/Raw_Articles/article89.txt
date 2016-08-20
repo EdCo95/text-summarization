@@ -1,0 +1,59 @@
+THE FRAUDULENT CLAIMS MADE BY IBM ABOUT WATSON AND AI.
+
+They are not doing "cognitive computing" no matter how many times they say they are
+
+I was chatting with an old friend yesterday and he reminded me of a conversation we had nearly 50 years ago. I tried to explain to him what I did for living and he was trying to understand why getting computers to understand was more complicated than key word analysis. I explained about concepts underlying sentences and explained that sentences used words but that people really didn’t use words in their minds except to get to the underlying ideas and that computers were having a hard time with that.
+
+Fifty years later, key words are still dominating the thoughts of people who try to get computers to deal with language. But, this time, the key word people have deceived the general public by making claims that this is thinking, that AI is here, and that, by the way we should be very afraid, or very excited, I forget which.
+
+We were making some good progress on getting computers to understand language but, in 1984, AI winter started. AI winter was a result of too many promises about things AI could do that it really could not do. (This was about promoting expert systems. Where are they now?). Funding dried up and real work on natural language processing died too.
+
+But still people promote key words because Google and others use it to do "search". Search is all well and good when we are counting words, which is what data analytics and machine learning are really all about. Of course, once you count words you can do all kinds of correlations and users can learn about what words often connect to each other and make use of that information. But, users have learned to accommodate to Google not the other way around. We know what kinds of things we can type into Google and what we can’t and we keep our searches to things that Google is likely to help with. We know we are looking for texts and not answers to start a conversation with an entity that knows what we really need to talk about. People learn from conversation and Google can’t have one. It can pretend to have one using Siri but really those conversations tend to get tiresome when you are past asking about where to eat.
+
+But, I am not worried about Google. It works well enough for our needs.
+
+What I am concerned about are the exaggerated claims being made by IBM about their Watson program. Recently they ran an ad featuring Bob Dylan which made laugh, or would have, if had made not me so angry. I will say it clearly: Watson is a fraud. I am not saying that it can’t crunch words, and there may well be value in that to some people. But the ads are fraudulent.
+
+Here is something from Ad Week:
+
+The computer brags it can read 800 million pages per second, identifying key themes in Dylan's work, like "time passes" and "love fades."
+
+Ann Rubin, IBM's vp of branded content and global creative, told Adweek that the commercials were needed to help people understand the new world of cognitive computing.
+
+"We're focusing on the advertising here, but this is really more than an advertising campaign," Rubin said. "It's a point of view that IBM has, and it's going across all of our marketing, our internal communications, how we engage sellers and our employees. It's really across everything that we do."
+
+IBM says the latest series is meant to help a broader audience - companies, decision makers and software developers - better understand how Watson works. Unlike traditionally programmed computers, cognitive systems such as Watson understand, reason, and learn. The company says industries such as banking, insurance, healthcare and retail can all benefit.
+
+Rubin said Watson's abilities "outthink" human brains in areas where finding insights and connections can be difficult due to the abundance of data.
+
+"You can outthink cancer, outthink risk, outthink doubt, outthink competitors if you embrace this idea of cognitive computing," she said.
+Really? I am a child of the 60s’ and I remember Dylan’s songs well enough. Ask anyone from that era about Bob Dylan and no one will tell you his main theme was "love fades". He was a protest singer, and a singer about the hard knocks of life. He was part of the anti-war movement. Love fades? That would be a dumb computer counting words. How would Watson see that many of Dylan’s songs were part of the anti-war movement? Does he say anti-war a lot? He probably never said it in a song.
+
+This is from this site:
+
+In our No. 1 Bob Dylan protest song, 'The Times They Are a-Changin,' Dylan went all out and combined the folk protest movement of the 1960's with the civil rights movement. The shorter verses piled upon one another in a powerful way, and lyrics like, "There's a battle outside and it is ragin' / It’ll soon shake your windows and rattle your walls / For the times they are a-changin'," are iconic Dylan statements that manage to transcend the times.
+But he doesn't mention Viet Nam or Civil Rights. So Watson wouldn't know that he had anything to do with those issues. It is possible to talk about something and have the words themselves not be very telling. Background knowledge matters a lot. I asked a 20 something about Bob Dylan a few days ago and he had never heard of him. He didn’t know much about the 60’s. Neither does Watson. You can’t understand words if you don’t know their context.
+
+Suppose I told you that I heard a friend was buying a lot of sleeping pills and I was worried. Would Watson say I hear you are thinking about suicide? Would Watson suggest we hurry over and talk to our friend about their problems? Of course not. People understand in context because they know about the world and real issues in people's lives. They don't count words.
+
+Here is more from another site:
+
+Saying that Bob Dylan is the father of folk music is probably overstepping a bit. However, saying that the vocalist is one of the most prominent writers of anti-war and protest songs in the 20th century is spot on, thus making him worthy of a Top 10 Bob Dylan Protest Songs list. The singer did change his range from anti-establishment to country to pop and back to folk again, and he remains a seminal force for those who rage against "The Man."
+That was written by a human. How do I know? Because Watson can’t draw real conclusions by counting words in 800 million pages of text.
+
+Of course, what upsets me most is not Watson but what IBM actually says. From the quote above:
+
+Unlike traditionally programmed computers, cognitive systems such as Watson understand, reason, and learn.
+
+Ann Rubin, IBM's vp of branded content and global creative, told Adweek that the commercials were needed to help people understand the new world of cognitive computing.
+I wrote a book called The Cognitive Computer in 1984:
+
+I started a company called Cognitive Systems in 1981. The things I was talking about then clearly have not been read by IBM (although they seem to like the words I used.) Watson is not reasoning. You can only reason if you have goals, plans, ways of attaining them, a comprehension of the beliefs that others may have, and a knowledge of past experiences to reason from. A point of view helps too. What is Watson’s view on ISIS for example?
+
+Dumb question? Actual thinking entities have a point of view about ISIS. Dog’s don’t but Watson isn't as smart as a dog either. (The dog knows how to get my attention for example.)
+
+I invented a field called Case Based Reasoning in the 80’s which was meant to enable computers to compare new situations to old ones and then modify what the computer knew as a result. We were able to build some useful systems. And we learned a lot about human learning. Did I think we had created computers that were now going to outthink people or soon become conscious? Of course not. I thought we had begun to create computers that would be more useful to people.
+
+It would be nice if IBM would tone down the hype and let people know what Watson can actually do and stop making up nonsense about love fading and out thinking cancer. IBM is simply lying now and they need to stop.
+
+AI winter is coming soon.

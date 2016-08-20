@@ -1,0 +1,31 @@
+Astronomers precisely 'weigh' a supermassive black hole
+Cold gas provides a handy and accurate way to size up monster black holes in the centre of distant galaxies. Belinda Smith reports.
+Astronomers "weighed" a supermassive black hole by clocking the cold gas spinning around it at a blistering 500 kilometres per second.
+
+Aaron Barth from the University of California, Irvine, and colleagues from the US and China calculated the black hole, which lies in a galaxy 73 million light-years from Earth, to be 660 million times the mass of the Sun – the most precisely measured supermassive black hole mass outside our own galaxy yet.
+
+The technique, study co-author Benjamin Boizelle says, "can be applied to many other galaxies to measure the masses of supermassive black holes to remarkable precision".
+
+Most galaxies are thought to house a supermassive black hole in their centre. The Milky Way's central black hole is around four million times the mass of the Sun. Its mass was calculated by tracing paths of stars caught in its gravitational pull.
+
+But gauging the mass of supermassive black holes in other galaxies is not so straightforward. When a galaxy is millions of light-years away, and telescopes on Earth aren't powerful enough to pick out the motion of individual stars, astronomers must measure something bigger.
+
+Some galaxies, such as NGC 1332, an elliptical galaxy 73 million light-years away, house a flattened disc of cold carbon monoxide gas that orbits the central black hole. In NGC 1332's case, that gassy disc extends 800 light-years out from the centre of the galaxy.
+
+As the motion of stars was used to calculate the mass of the Milky Way's supermassive black hole, astronomers can see how fast NGC 1332's gas disc spins and from that, extrapolate the mass of its black hole.
+
+But to obtain precise measurements, they can only use observations from the innermost section of the disc, where the black hole's pull is the dominant force. Outside this "sphere of influence" of around 80 light-years, other objects such as stars pull on NGC 1332's gas disc.
+
+So in September 2015, the Atacama Large Millimeter/submillimeter Array (ALMA) – a herd of radio telescopes in Chile – tracked radio waves emanating from the centre of NGC 1332's disc for a total of 101 minutes.
+
+Pinpointing its spin speed relied on the Doppler effect, where light moving towards us was contracted or "blue-shifted" and light moving away was stretched, or "red-shifted".
+
+They found parts of the disc travel at 500 kilometres per second. They then calculated the mass of the black hole as 660 million times the Sun's mass, plus or minus 10%, or around 150 times the mass of the black hole in the centre of the Milly Way.
+
+It's not a particularly big black hole – just last month, astronomers found a behemoth weighing in at 17 billion times the mass of the Sun.
+
+But previous attempts to ascertain the mass of NGC 1332's black hole varied from 500 million solar masses to 1.5 billion. This latest measurement is on the lower end of the range.
+
+Why earlier estimates were off by so much may be because they relied on using the Hubble Space Telescope to measure emissions from hot, ionised gas rather than the galaxy's cold disc. But ionised-gas discs are turbulent, and the measurements aren't as precise as those from an orderly, cold disc, Boizelle says.
+
+The work was published in Astrophysical Journal Letters.
