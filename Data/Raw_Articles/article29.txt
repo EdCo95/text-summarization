@@ -1,0 +1,84 @@
+We need to talk about AI and access to publicly funded data-sets
+For more than a decade the company formerly known as Google, latterly rebranded Alphabet to illustrate the full breadth of its A to Z business ambitions, has engineered an annually increasing revenue generating empire which last year pulled in ~$75 billion. And it’s done this mostly by mining user data for ad targeting intel.
+
+Slice it and dice it how you like but Google’s business engine needs data like the human body needs oxygen. Most of its products are thus designed to remove friction to accessing more user data; whether it’s free search, free email, free cloud storage, free document editing tools, free messaging apps, a fuzzy social network that no one loves but which is somehow still hanging around, free maps, a mobile OS platform that OEMs can load onto smartphone hardware without paying a license fee… Most of what Google builds it opens to all comers to keep the data pouring in. The bits and bytes must flow.
+
+The trade off for consumers handing over data is of course access to a particular Google service without any up front cost. Or getting to buy a cheaper piece of hardware than they might otherwise be able to. Or the convenience of using a dominant digital service. Of course they are ‘paying’ with their data, but few will think of it that way. It’s an abstract idea for starters, and a personal cost that’s far harder to quantify given how unclear it is what Google really does with the data it gathers and processes in its algorithmic black boxes.
+
+Google certainly isn’t spelling that out. Rather it makes noises about the benefits of it knowing more about you (savvier virtual assistants, more powerful photo search and so on). And without explicit knowledge of what the trade-off entails — coupled with noisy PR about the convenience of data-powered services — most consumers will simply shrug and carry on handing over the keys to their lives. This is the momentum that fuels Mountain View’s ad-targeting empire. The more it knows about you, the richer it bets it can get.
+
+You can dislike Google’s business model but you can also argue that consumers do (in general) have a choice about whether to use its services. Albeit in markets where the company has a defacto monopoly there may be doubt about how much choice people really have. Not least if the company is found to have been abusing a dominant position by demoting alternatives to its services in its search results (Google is facing just such antitrust claims in Europe, where it has a hugely dominant marketshare in search, for example).
+
+Another caveat is that Google has worked to join up more personal data dots, undermining how much control users have over how they share data with the centralizing Alphabet entity — by, for example, consolidating the privacy policies of multiple products to enable it to flesh out its understanding of each user by cross-referencing their usage of different services. That collapsing of prior partitions between products has also caused Google headaches with European data protection regulators. And contributed to a caricature of it as a vampire octopus with masses of tentacles all maneuvering to feed data back into a single, hungry maw.
+
+But if you think Google has a controversial reputation at this point in its business evolution, buckle up because things are really stepping up a gear.
+
+The Google/Alphabet octopus, via its artificially intelligent DeepMind tentacle, is being granted access to public healthcare data. Lots and lots of healthcare data. Now personal data doesn’t really get more sensitive than people’s medical records. And these highly sensitive bits and bytes are now being sucked towards Google’s algorithmic core — albeit indirectly, via the DeepMind division, which so far this year has two publicly announced data-sharing collaborations with the UK’s National Health Service (NHS).
+
+The public data in question is tied to the two specific projects. But the most recent of these collaborations, with Moorfields Eye Hospital NHS Trust in London, entails DeepMind applying machine learning to the data. Which is a key development. Because, as New Scientist noted this week, Google will be keeping any AI models DeepMind is able to build off of this public data-set. The trained models are effectively its payment in this trade — given it’s not charging the NHS for its services.
+
+So yes, this is another Google freebie. And the cash-strapped, publicly (under)funded NHS has obviously leapt at the chance of a free-at-the-point-of-use high tech partner who might, in time, help improve healthcare outcomes for patients. So it’s granting the commercial giant access to patients’ data.
+
+And while we are told the first NHS DeepMind collaboration, announced back in February with the Royal Free Hospital Trust in London, does not currently involve any AI component, the five-year strategic partnership between the pair does include a wide ranging memorandum of understanding in which DeepMind states its hope to also conduct machine learning research on Royal Free data-sets. So advancing AI is the clear objective for DeepMind’s NHS engagement, as you’d expect. It is a machine learning specialist. And its learning algorithms need the lifeblood of data in order to develop and thrive.
+
+Now we’re all, as individuals, used to getting Google freebies in exchange for sharing some of our data. But the thing is, the data trade off here — with the publicly funded NHS — is a rather different beast. Because the people whose personal data is being pumped into Google-owned databanks are not being asked for their individual consent to the exchange.
+
+Patient consent has not been sought in either of the current NHS collaborations. In the Moorfields project, where the data is being anonymized (or pseudonymized), NHS information governance rules allow for data to be shared for medical research purposes without obtaining patient consent (although NHS patients can opt out of supplying their data to all research projects) — so long as the relevant Health Research Authority clears the project. And DeepMind has applied to be cleared access in this case.
+
+In the first collaboration, with the Royal Free, where DeepMind is helping co-design an app to detect acute kidney injury, the patient data being supplied is not anonymized or pseudonymized. In fact full patient medical records are being shared with the company — likely millions of people’s medical records, given it’s getting real-time data across the Trust’s three hospitals, along with five years’ worth of historical inpatient data.
+
+In that case patient consent has not been sought because the Royal Free argues consent can be implied as it claims the app is for “direct patient care”, rather than being a medical research project (or another classification, such as indirect patient care). There has been controversy over that definition — with health data privacy groups disputing the classification of the project and questioning why DeepMind has been handed access to so much identifiable patient data. Regulators have also stepped in after the fact to take a look at the project’s parameters.
+
+Whatever the upshot of those complaints, it’s fair to say NHS rules on information governance are not an exact science, and do involve interpretation by individual NHS Trusts. There is no definitive set of NHS data-sharing commandments to point to to definitely denounce the scope of the arrangement. The best we have is a series of principles developed by the NHS’ national data guardian, Fiona Caldicott. And, perhaps, our public sense of right and wrong.
+
+But what is absolutely crystal clear is that millions of NHS patients’ medical histories are being traded with DeepMind in exchange for some free services. And none of these people have been asked if they agree with the specific trade.
+
+No one has been asked if they think it’s a fair exchange.
+
+The NHS, which launched in 1948, is a free-at-the-point of use public healthcare service for all UK residents — currently that’s around 65 million people. It’s a vast repository of medical data so it’s not at all hard to see why Google is interested. Here lies data of unprecedented value. And not for the relatively crude business of profiling consumers via their digital likes and dislikes; but for far more valuable matters, both in societal and business terms. There could be considerable future revenue-generating opportunities if DeepMind’s AI models end up being able to automate and/or improve complex diagnostic and healthcare challenges, for example. And if the models prove effective they could end up positively impacting healthcare outcomes — although we don’t know exactly who would benefit at this point because we don’t know what pricing structure Google might impose on any commercial application of its AI models.
+
+One thing is clear: large data-sets are the lifeblood of robust machine learning algorithms. In the Moorfields case, DeepMind is getting around a million eye scans to train its machine learning models. And while those eye scans will technically be handed back at the end of the project, any diagnostic intelligence they end up generating will remain in Google’s hands.
+
+The company admits as much in a research outline of the project, though it steers the focus away from these trained algorithms and back to the original data-set (whose value the algorithms will now have absorbed and implicitly contain):
+
+The algorithms developed during the study will not be destroyed. Google DeepMind Health knows of no way to recreate the patient images transferred from the algorithms developed. No patient identifiable data will be included in the algorithms.
+
+DeepMind says it will be publishing “results” of the Moorfields research in academic literature. But it does not say it will be open sourcing any AI models it is able to train off of the publicly funded data.
+
+Which means that data might well end up fueling the future profits of one of the world’s wealthiest technology companies. Instead of that value remaining in the hands of the public, whose data it is.
+
+And not just that — early access to large amounts of valuable taxpayer-funded data could potentially lock in massive commercial advantage for Google in healthcare. Which is perhaps the single most important sector there is, given it affects everyone on the planet. If you don’t think Google has designed on becoming the world’s medic, why do you think it’s doing things like this?
+
+Google will argue that the potential social benefits of algorithmically improved healthcare outcomes are worth this trade off of giving it advantageous access to the locked medicine cabinet where the really powerful data is kept.
+
+But that detracts from the wider point: if valuable public data-sets can create really powerful benefits, shouldn’t that value remain in public hands?
+
+Or shouldn’t we at least be asking if we have a public duty to disseminate the value of publicly funded data as widely as possible?
+
+And are we, as a society, comfortable with the trade off of a few free services — and some feel-good but fuzzy talk of future social good — for prematurely privatizing what could be our core IP?
+
+Shouldn’t we, as the data creators, as the patients, at least be asked if we are comfortable with the terms of the trade?
+
+Fiona Caldicott’s, the UK’s national data guardian, happened to publish her third review of how patient data is handled within the NHS just this week — and she urged a more extensive dialogue with the public about how their data is used. And a proper informed choice to opt in or out.
+
+The old rules about information governance — which still talk in terms of shredding pieces of paper as a viable way to control access to data — have certainly not kept up with big data and machine learning. Stable doors and bolting horses spring to mind when you combine these old school data access  rules with the learning and evolving character of advanced AI.
+
+Access to data-sets is undoubtedly the core competitive advantage for AI builders because really good data is hard to come by and/or expensive to create. And that’s why Google is pushing so hard and fast to embed itself into the NHS.
+
+You can’t blame the company for this healthcare data-grab. It’s just doing what successful commercial enterprises do: figuring out what the future looks like and plotting the fastest route to get there.
+
+What’s less clear is why governments and public bodies find it so hard to see the value locked up in the publicly funded data-sets they control.
+
+Or rather why they fail to come up with effective structures to support maintaining public ownership of public assets; to distribute benefits equally, rather than disproportionately rewarding the single, best-resourced, fastest-moving commercial entity that happens to have the slickest sales pitch. It’s almost as if the public sector is being encouraged to privatize yet another public resource… ehem
+
+Inject a little more structured forward-thinking and public healthcare data could, for example, be contributed (with consent) to machine learning research departments in domestic universities so that AI models can be developed and tested ‘in house’, as it were, with public parents.
+
+Instead we have the opposite prospect: public data assets stripped of their value by the commercial sector. And with zero guarantees that the algorithms of the future will be free at the point of use. Of course Google is going to aim to turn a profit on any healthcare AI models DeepMind creates. It’s not in the business of only giving away freebies.
+
+So the really pressing question — roundly ignored by web consumers going about their daily Googling but perhaps moving into clearer focus, here and now, as commercial thirst to accelerate AI advancements is encouraging public sector bodies to over-hastily ink wide-ranging data-sharing arrangements — is what is the true cost of free?
+
+And if we’ve inked the contracts before we even know the answer to that question won’t it be too late for us to haggle over the price?
+
+Even DeepMind talks publicly about the need for new models of information governance and ethics to be put in place to properly oversee the coupling of AI with data…
+
+So we, the public, really need to get our act together and demand a debate about who should own the value locked up in our data. And preferably do so before we’ve handed over any more sets of keys.

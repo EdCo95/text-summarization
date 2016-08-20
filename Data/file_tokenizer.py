@@ -35,7 +35,7 @@ for i in range(1, NUMBER_OF_FILES + 1):
     fp = open(filename_to_write, "w+")
 
     for sentence in sentences:
-        fp.write(sentence + "\n\n")
+        fp.write(sentence + "\n\n\n")
 
     # Close the file for writing
     fp.close()

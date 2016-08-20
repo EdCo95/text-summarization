@@ -1,0 +1,50 @@
+Synthetic Stingray May Lead To A Better Artificial Heart
+Scientists have created a synthetic stingray that's propelled by living muscle cells and controlled by light, a team reports Thursday in the journal Science.
+
+And it should be possible to build an artificial heart using some of the same techniques, the researchers say.
+
+"I want to build an artificial heart, but you're not going to go from zero to a whole heart overnight," says Kit Parker, a bioengineer and physicist at Harvard University's Wyss Institute. "This is a training exercise."
+
+Previous artificial hearts have been versions of mechanical pumps. An artificial heart made from living muscle cells would behave more like a natural heart, Parker says, and would be able to grow and change over time.
+
+"The heart's built the way it is for a reason," he says. "And we're trying to replicate as much of that function as we possibly can."
+
+A heart and a stingray may seem pretty different. But both need to overcome problems that involve fluid and motion, Parker explains. A stingray has to propel itself through the water. A heart has to propel blood through the circulatory system.
+
+And all of that was on Parker's mind a couple of years ago when he visited an aquarium with his daughter. At an exhibit where visitors can touch rays as they swim by, his daughter put her hand in the water. "The stingray was coming at it," he says, "and with a quick flick of its pectoral fin it just smoothly evaded her hand."
+
+Parker realized that this sort of split-second adjustment is something the heart does all the time as it senses changes in blood flow or pressure.
+
+"The idea just hit me like a thunderbolt," he says.
+
+By building an artificial stingray, Parker figured, he could learn how to replicate the animal's ability to respond instantly to changing conditions.
+
+So he came up with a strategy and presented it to Sung-Jin Park, a researcher in his lab.
+
+"I sat down with him," Parker says, "and I said, 'Sung-Jin, we're going to take a rat apart; we're going to rebuild it as a stingray; and then we're going to use a light to guide it.' And the look on his face was both sorrow and horror."
+
+Parker's lab had previously built an artificial jellyfish. But a ray was much more complicated. And the team was facing tough questions like, how do you to take cells from a rat and make them swim like a fish?
+
+Park and the rest of the team started working, though. And, eventually, they succeeded.
+
+Their synthetic ray, which is about the size of a nickel, has a transparent body made of silicone and a rudimentary skeleton made of gold.
+
+The ray is propelled by 200,000 heart muscle cells taken from a rat. The cells have been genetically altered to allow the hybrid creature to follow a pair of blue lights.
+
+"We can guide this thing around," Parker says. "It swims through obstacle courses."
+
+And the creature displays the rhythmic, undulating motion of a real stingray. Replicating that motion is one of the project's key accomplishments, says John Dabiri, a professor of engineering at Stanford who worked with Parker on the artificial jellyfish.
+
+To get the ray's tail to undulate, the team had to come up with a way to trigger muscle cells in sequence. The effect is similar to when the crowd at a ballgame does the wave, Dabiri says.
+
+"You have one group standing up and then the next and then the next. Well, in the case of the muscle here, they're doing the same thing," he says. "They're able to get a certain section of muscle to contract and then the next and then the next."
+
+That coordinated movement is necessary for many biological functions, like swallowing. It's also the way the heart beats, with areas contracting in a precise sequence.
+
+Another advance is the ability to activate muscle cells with light rather than electricity, Dabiri says. That allows scientists to control precisely which part of a muscle contracts. So light could act as a sort of pacemaker in an artificial heart that's made this way.
+
+The artificial stingray is likely to make some people uncomfortable, Dabiri says, because it raises questions about when a machine becomes a living organism.
+
+In this case, the artificial ray pretty clearly isn't an organism, he says. It can't grow, adapt or reproduce. But scientists should be considering the possibilities as they pursue other projects like this, he says.
+
+"We want to make sure we think about the ethical issues hand in hand with just asking what we can do," Dabiri says.

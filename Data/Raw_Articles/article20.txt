@@ -1,0 +1,28 @@
+Exclusive: Apple acquires Turi in major exit for Seattle-based machine learning and AI startup
+
+Machine learning and artificial intelligence startup Turi has been acquired by Apple in a deal characterized as a blockbuster exit for the Seattle-based company, formerly known as Dato and GraphLab, GeekWire has learned.
+The acquisition reflects a larger push by Apple into artificial intelligence and machine learning. It also promises to further increase the Cupertino, Calif.-based company’s presence in the Seattle region, where Apple has been building an engineering outpost for the past two years.
+
+“Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans,” said Apple in a statement when contacted by GeekWire about the deal, its standard comment after making such acquisitions.
+
+Multiple sources with knowledge of the deal confirmed that Turi has been acquired. Sources close to the deal pegged the purchase price at around $200 million, marking a huge outcome for the original investors and early shareholders. Carlos Guestrin, the University of Washington professor who founded the company, declined to comment when GeekWire stopped by the company’s office Friday morning.
+
+According to people familiar with the acquisition, Turi’s team is expected to remain in the Seattle region and continue to grow as Apple builds out further expertise in data science, artificial intelligence and machine learning. Turi recently hosted a closely-watched Data Science Summit in San Francisco, in an indication of its leadership position in the field.
+
+Apple’s plans for Turi’s technology are not clear, but the company has been making a broad push into artificial intelligence through an expansion of its Siri personal assistant and related technologies.
+
+This is Apple’s second Seattle-related acquisition in the past two years. In 2014, the tech giant bought Union Bay Networks, a stealthy cloud networking startup, which ultimately led to Apple opening an engineering office in Seattle.
+
+Turi lets developers build apps with machine learning and artificial intelligence capabilities that automatically scale and tune. Its products —which include the Turi Machine Learning Platform, GraphLab Create, Turi Distributed, and Turi Predictive Services — are largely designed to help large and small organizations make better sense of data. Use cases include recommendation engines, fraud detection, predicting customer churn, sentiment analysis, and customer segmentation.
+
+The company began as an open-source project at Carnegie Mellon in 2009 under Guestrin’s guidance. In 2012, he joined the University of Washington’s faculty. Amazon founder Jeff Bezos provided $2 million to endow two professorships in machine learning at the UW for Guestrin and his wife, Emily Fox. Guestrin later spun off the open-source project from the UW into its own company, at the time called GraphLab. He remains the University of Washington’s “Amazon Professor of Machine Learning,” according to his LinkedIn profile.
+
+A year after the spin-off, the company raised $6.75 million in its Series A funding round from Madrona Venture Group — one of Seattle’s leading venture firms — and NEA, the Silicon Valley behemoth best known around the Northwest as the primary backer of Tableau Software. The company then reeled in an additional $18.5 million in January 2015.
+
+That’s when the company first changed its name from GraphLab to Dato. A few weeks later, Datto, which has been offering data backup and recovery services from its Connecticut headquarters since 2007, first complained about Dato’s new name. The two companies went back-and-forth for the next several months, deadlocked in a trademark infringement argument. Ultimately Dato was forced to rebrand again, changing its name to Turi earlier this month.
+
+Turi is one of several Seattle-area companies developing machine learning and artificial intelligence technology. Some say the region is poised to be an epicenter for the emerging industry.
+
+Apple has made around 15 acquisitions since early 2015, including Perceptio and VocalIQ, two artificial intelligence/machine learning startups similar to Turi. Other Apple acquisitions in 2016 include Emotient, a facial recognition startup; LearnSprout, an education startup; Flyby Media, a spatial perception startup; and LegbaCore, a firmware security startup.
+
+Earlier this year, Apple CEO Tim Cook hinted that the company was open to making a larger acquisition as iPhone sales decline. Apple reported $231 billion in cash in its most recent earnings report. “We continue to look and we stay very active in the M&A market,” Cook said at the time.

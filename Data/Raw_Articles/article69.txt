@@ -1,0 +1,86 @@
+10 Data Acquisition Strategies for Startups
+The “unreasonable effectiveness” of data for machine-learning applications has been widely debated over the years (see here, here and here). It has also been suggested that many major breakthroughs in the field of Artificial Intelligence have not been constrained by algorithmic advances but by the availability of high-quality datasets (see here). The common thread running through these discussions is that data is a vital component in doing state-of-the-art machine learning.
+Access to high-quality training data is critical for startups that use machine learning as the core technology of their business. While many algorithms and software tools are open sourced and shared across the research community, good datasets are usually proprietary and hard to build. Owning a large, domain-specific dataset can therefore become a significant source of competitive advantage, especially if startups can jumpstart data network effects (a situation where more users → more data → smarter algorithms → better product → more users).
+Consequently, one of the key strategic decisions that machine learning startups have to make is how to build high-quality datasets to train their learning algorithms. Unfortunately, startups often have limited or no labeled data in the beginning, a situation that precludes founders from making significant progress on building a data-driven product. It is therefore worth exploring data acquisition strategies from the outset, before hiring the data science team or building up a costly core infrastructure.
+Startups can overcome the cold start problem of data acquisition in numerous ways. The choice of data strategy/source usually goes hand-in-hand with the choice of business model, a startup’s focus (consumer or enterprise, horizontal or vertical, etc.) and the funding situation. The following list of strategies, while neither exhaustive nor mutually exclusive, gives a sense for the broad range of approaches available.
+Strategy #1: Manual work
+Building a good proprietary dataset from scratch almost always means putting a lot of up-front, human effort into data acquisition and performing manual tasks that don’t scale. Examples of startups that have used brute force in the beginning are plentiful. For instance, many chatbot startups employ human “AI trainers” who manually create or verify the predictions their virtual agents make (with varying degrees of success and a high employee turnover rate). Even the tech giants resort to this strategy: all responses by Facebook M are reviewed and edited by a team of contractors.
+Using brute force to manually label data points can be a successful strategy as long as data network effects kick in at some point so that humans no longer scale at an equal pace with the customer base. As soon as the AI system is improving fast enough, unspecified outliers become less frequent and the number of humans who perform manual labeling can be decreased or held constant.
+Interesting for: More or less every machine learning startup
+Examples:
+* Many chatbot startups (including Magic, GoButler, x.ai and Clara)
+* MetaMind (manually collected and labeled dataset for food classification)
+* Building Radar (employees/interns manually label pictures of buildings)
+Strategy #2: Narrow the domain
+Most startups will try to collect data directly from users. The challenge is to convince early adopters to use the product before the benefits of machine learning fully kick in (because data is needed in the first place to train and fine-tune the algorithms). One way around this catch-22 is to drastically narrow the problem domain (and expand the scope later if needed). As Chris Dixon says: “The amount of data you need is relative to the breadth of the problem you are trying to solve.”
+Good examples of the benefits of a narrow domain are again chatbots. Startups in this segment can choose between two go-to-market strategies: They can build horizontal assistants — bots that can help with a very large number of questions and immediate requests (examples are Viv, Magic, Awesome, Maluuba and Jam). Or they can create vertical assistants — bots that try to perform one specific, well-defined job extremely well (examples are x.ai, Clara, DigitalGenius, Kasisto, Meekan — and more recently GoButler/Angel.ai). While both approaches are valid, data collection is dramatically easier for startups that tackle closed-domain problems.
+Interesting for: Vertically integrated businesses
+Examples:
+* Highly-specialized vertical chatbots (such as x.ai, Clara or GoButler)
+* Deep Genomics (uses deep learning to classify/interpret genetic variants)
+* Quantified Skin (uses customer selfies to analyze a person’s skin)
+Strategy #3: Crowdsourcing / Outsourcing
+Instead of using qualified employees (or interns) to manually collect or label data, startups can also crowdsource the process. Platforms like Amazon Mechanical Turk or CrowdFlower offer a way to clean up messy and incomplete data using an online workforce of millions of people. For example, VocalIQ (acquired by Apple in 2015) used Amazon’s Mechanical Turk to feed its digital assistant thousands of user queries. Workers can also be outsourced by employing other independent contractors (as done by Clara or Facebook M). The necessary condition for using this approach is that the task can be clearly explained and is not too long/boring.
+Another tactic is to incentivize the public to voluntarily contribute data. An example is Snips, a Paris-based AI startup that uses this approach to get its hands on a certain type of data (confirmation emails for restaurants, hotels and airlines). Like other startups, Snips uses a gamified system where users are ranked on a leaderboard.
+Interesting for: Use cases where quality control can be easily enforced
+Examples:
+* DeepMind, Maluuba, AlchemyAPI and many others (see here)
+* VocalIQ (used Mechanical Turk to teach its program how people talk)
+* Snips (asks people to freely contribute data for research)
+Strategy #4: User-in-the-loop
+A crowdsourcing strategy that deserves its own category is user-in-the-loop. This approach involves designing products that provide the right incentives for users to give data back to the system. Two classic examples of companies that have used this approach for many of their products are Google (autocomplete in search, Google Translate, spam filters, etc.) and Facebook (users tagging friends in photos). Users are often unaware that they provide these companies with labeled data for free.
+Many startups in the machine learning space have drawn inspiration from Google and Facebook by creating products with a fault-tolerant UX that explicitly encourage users to correct machine errors. Particularly notable are reCAPTCHA and Duolingo (both founded by Luis von Ahn). Other examples include Unbabel, Wit.ai and Mapillary.
+Interesting for: Consumer-centric startups with constant user interaction
+Examples:
+* Unbabel (community translators correct machine-generated translations)
+* Wit.ai (provided dashboard/API for users to correct translation errors)
+* Mapillary (users can correct machine-generated traffic sign detection)
+Strategy #5: Side business
+A strategy that seems to be particularly popular among computer vision startups is to offer a free, domain-specific mobile app that targets consumers. Clarifai, HyperVerge and Madbits (acquired by Twitter in 2014) have all pursued this strategy by offering photo apps that gather additional image data for their core business.
+This strategy is not completely without risk (after all, it costs time and money to successfully develop and promote an app). Startups must also ensure that they create a strong enough use case that compels users to give up their data, even if the service lacks the benefits of data network effects in the beginning.
+Interesting for: Enterprise startups/horizontal platforms
+Examples:
+* Clarifai (Forevery, photo discovery app)
+* HyperVerge (Silver, photo organization app)
+* Madbits (Momentsia, photo collage app)
+Strategy #6: Data trap
+Another approach to gather useful data exhaust is to build what Matt Turck has called a “data trap” (Leo Polovets has given this strategy the rather uncharming title “Trojan Horse to collect data”). The goal is to create something that is valuable even without machine learning, and then sell it at a cost to gather data (even if the margin is tiny). In contrast to the previous strategy, building a data trap is a core part of a startup’s business model (not merely a side business).
+A case in point is Recombine, a clinical genetic testing company that sells fertility tests to gather DNA data that can then be analyzed with machine learning. Another example is BillGuard (acquired by Prosper in 2015), a startup that offers a mobile app to help credit card users catch and dispute “grey charges.” The app helped BillGuard crowdsource a large amount of fraud data that could then be used for other purposes. One could even argue that Tesla is pursuing this strategy. With over 100,000 (sensor-equipped) vehicles on the road, Tesla is currently building the largest training datasets for self-driving cars (gathering more autopilot miles every day than Google).
+Interesting for: Vertically integrated businesses
+Examples:
+* Recombine (sells fertility tests to gather DNA data)
+* BillGuard (offers mobile app to gather fraud data)
+* Tesla (collects data when drivers are using the autopilot feature)
+Strategy #7: Publicly available datasets
+A strategy that many startups have tried — with varying degrees of success — is mining data from publicly available sources. Web archives like The Common Crawl contain petabytes of free raw data collected over years of web crawling. In addition, companies like Yahoo or Criteo have released huge datasets to the research community (Yahoo released a whopping 13.5 TB of uncompressed data!). And with the recent proliferation of publicly available government datasets (spearheaded by the Obama administration), more and more data sources are becoming freely available.
+Several machine learning startups have taken advantage of public data. When Oren Etzioni started Farecast (acquired by Microsoft in 2008), he used a sample of 12,000 price observations that he obtained by scraping information from a travel website. Similarly, SwiftKey (acquired by Microsoft in 2016) collected and analyzed terabytes of web-crawled data in the early days to create its language models.
+Interesting for: Startups that can identify a relevant public dataset
+Examples:
+* Farecast (first version scraped information from a travel website)
+* SwiftKey (crawled web text to create language models)
+* The Echo Nest (crawled millions of music-related websites every day)
+* Jetpac (used public Instagram data for its mobile application)
+Strategy #8: License third-party data
+Another way to access third-party data is to license it, either through an API that is provided by an external data provider, or by implementing SDKs in third-party mobile apps to capture data (ideally with end user consent). In both cases, startups pay an external party for access to data that was generated for one purpose, and then apply machine learning to extract new value from that data.
+Farecast and Decide.com (both founded by Oren Etzioni) have successfully pursued this strategy. Open data platforms like Clearbit or Factual are examples of external data providers. Among the companies that use third-party data to mine predictive insights are also several hedge funds and algo-trading firms (which are using non-traditional datasets like satellite data from startups like Orbital Insight or Rezatec).
+Interesting for: Startups that rely on third-party data (e.g. industry data)
+Examples:
+* Farecast (licensed airline data to generate airfare predictions)
+* Decide.com (licensed e-commerce data to generate price predictions)
+* Building Radar (uses ESA satellite images to monitor construction projects)
+Strategy #9: Collaboration with large corporation
+For enterprise startups, the data provider can be a large customer that provides access to relevant data. In this setup, the startup sells the customer a solution to a problem (such as reducing fraud) and trains its learning algorithms using the customer’s data. Ideally, the data learnings from one customer or instance can then be transferred to all other customers. Examples in the field of fraud detection are Sift Science and SentinelOne.
+The challenge with this approach is to negotiate upfront that the data learnings will be owned by the startup while the data itself remains property of the customer. This can be problematic given that large corporations often have stringent compliance rules and are very sensitive of sharing proprietary data.
+Interesting for: Enterprise startups
+Examples:
+* Sift Science (uses company-specific data to find unique fraud signals)
+* SentinelOne (cybersecurity startup that sells endpoint protection software)
+* Skytree (develops machine learning software for enterprise use)
+Strategy #10: Small acquisitions
+Matt Turck lists small acquisitions of companies as a way to get access to particularly relevant datasets (akin to acquisitions of valuable patent portfolios). IBM Watson, for example, has made four data-related acquisitions in 2015, transforming its health unit into one of the world’s largest and most diverse repositories of health-related data.
+Since this approach requires the means to fund the acquisition, it might only be viable for startups with substantial funding.
+Interesting for: (Later-stage) startups with enough funding
+Examples: Hard to pinpoint (data is rarely the only reason for acquisitions)
+There are quite possibly other data acquisition strategies which are not mentioned here (if so, please drop me a line). There are also several algorithmic tricks that startups can employ to work around the data problem (such as transfer learning, a technique used by MetaMind for instance).
+Whatever strategy you pursue, the key message is: Accessing and owning a large, domain-specific dataset to build high accuracy models can be the single hardest problem that founders need to solve in the beginning. In some cases, it involves finding a quick-fix solution that does not scale, like employing humans pretending to be machines pretending to be humans (as done by many chatbot startups). In other cases, it requires to significantly delay the move from free, limited beta to public release until the benefits of machine learning kick in and customers are willing to pay for the product.
+The strategies and examples were drawn from conversations with entrepreneurs as well as several blog posts, including from Nathan Benaich (here), Chris Dixon (here), Florian Douetteau (here), Leo Polovets (here), Matt Turck (here) and Boris Wertz (here).

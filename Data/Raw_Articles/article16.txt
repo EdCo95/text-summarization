@@ -1,0 +1,16 @@
+Robots Are Actually Helping People To Buy More Stuff
+
+A new study shows the ripple effect that automation has on labor markets and consumption
+
+It's not just about the labor that robots can save; it's also how much they can create.
+Automation allows companies to reduce product costs, and, ultimately, lower prices, which means more people can afford to buy what's on sale, according to researchers Anna Salomons, Ulrich Zierahn, and Terry Gregory from Utrecht University and Germany’s ZEW Center.
+
+Their joint study, published this week, finds that although machines did replace some human jobs in the European Union between 1999-2010, the boost in demand for goods ultimately caused the number of positions in other parts of the economy to rise at a faster rate.
+“Let’s say you have a firm that does both -- it produces a good, but it also has people in management, sales, and marketing,” Gregory said by phone from ZEW in Mannheim. “Repetitive tasks such as assembly line work are being automated, but that same firm also becomes more productive, allowing lower product prices. That means it can sell more products, which means more work for the other side of the business, especially in work focusing on non-routine tasks.”
+
+Though the team estimates that roughly 9.6 million jobs were lost in the EU regions studied due to technical innovations, around 8.7 million were directly added due to an increase in product demand. As people were able to afford cheaper goods, the resulting increase has what is known as a “multiplier effect.” That ends up raising labor demand even further, across the economy.
+
+To quantify this effect, the study broke down the multiplier into upper and lower bound estimates. The upper bound estimate, which says employment grew by 11.6 million jobs during the period, assumes that all income is spent in the local economy.
+
+The lower bound estimate of 1.9 million jobs rests on the assumption that only wage income feeds back into consumption, while the remaining income is spent outside the European Union. Both show that the effect of product demand on job growth overcompensated for the initial drop in labor demand.
+It’s clearly not as simple as saying that automation translates one-to-one into job creation. But the ripple effects show that long-term fears about being ousted by robots may be overstated.

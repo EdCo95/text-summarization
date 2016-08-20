@@ -1,0 +1,21 @@
+The Nervana Systems Chip That Will Let Intel Advance Its Deep Learning
+
+Deep-learning artificial intelligence has mostly relied upon the general-purpose GPU hardware used in many other computing tasks. But Intel’s recent acquisition of the startup Nervana Systems will give the tech giant ownership of a specialized chip designed specifically for deep learning AI applications. That could give Intel a huge lead in the race to develop next-generation artificial intelligence capable of swiftly finding patterns in huge data sets and learning through imitation.
+
+Nervana has leaned heavily on GPU hardware to build its own portfolio of deep-learning AI services for both companies and independent developers. But the startup has also been developing its own specialized deep-learning hardware, called Nervana Engine, that includes only the components necessary for running deep-learning algorithms and eliminates the extra components used for general-purpose GPU tasks. Nervana claims that when the Engine chip comes out in 2017,  it will deliver around 10 times as much computing power for deep learning as the best of today’s GPUs.
+
+“Nervana’s AI expertise combined with Intel’s capabilities and huge market reach will allow us to realize our vision and create something truly special,” said Naveen Rao, CEO and cofounder of Nervana, in a blog post.
+
+Software algorithms known as artificial neural networks are the heart of deep-learning AI. Such algorithms learn how to perform certain tasks through imitation and by observing correctly labeled examples as they sift through huge amounts of data. To accommodate deep learning’s voracious appetite for data, Nervana’s Engine hardware design includes High Bandwidth Memory technology that has stacked memory and densely packed data channels to swiftly move around large amounts of data.
+
+The end result: 32 gigabytes of on-chip storage and up to 8 terabits per second of memory access speed. By comparison, the GDDR5 memory technology used in GPUs has memory access speeds of just 224 gigabits per second.
+
+Intel clearly saw value in acquiring both Nervana and its deep-learning chip. Investors familiar with the acquisition deal pegged the startup’s purchase price at somewhere in the range of $408 million, according to Recode.
+
+The purchase gives Intel a possible edge in the market for deep-learning hardware while sidestepping the general-purpose GPUs produced by rival tech giant Nvidia, said Karl Freund, senior analyst for deep learning and HPC at Moor Insights & Strategy, in an interview with EE Times. Intel currently produces multicore Xeon and Xeon Phi processors and other hardware, but has had no equivalent to the GPUs that currently dominate deep learning.
+
+“[Nervana’s] IP and expertise in accelerating deep-learning algorithms will expand Intel’s capabilities in the field of AI,” said Diane Bryant, executive vice president and general manager of the Data Center Group at Intel, in a blog post.
+
+The 48-person Nervana team will remain at its San Diego headquarters and maintain a “startup mentality” as part of the deal. Nervana will also continue developing the Engine deep-learning hardware alongside other existing products such as its Neon deep-learning framework, a programming language and set of libraries intended to help outsiders create deep-learning models.
+
+Intel’s big bet on Nervana signifies the growing importance of deep learning and the broader field of machine learning. The purchase is the latest in a string of deep-learning startup acquisitions by major tech companies such as Google, IBM, and Amazon. To learn more about the race between startups and tech titans to develop deep learning services, see the IEEE Spectrum article “Now You Too Can Buy Cloud-Based Deep Learning.”

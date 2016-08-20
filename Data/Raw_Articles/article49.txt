@@ -1,0 +1,25 @@
+Mind-reading AI: Researchers decode faces from brainwave patterns (PHOTOS)
+
+Artificial Intelligence can show who you are thinking about by analyzing brain scans and reconstructing an image of that person, a new study reveals.
+
+Researchers from the Kuhl Lab at the University of Oregon explored how faces could be decoded from neural activity in the study Reconstructing Perceived and Retrieved Faces from Activity Patterns in Lateral Parietal Cortex, published in the Journal of Neuroscience.
+
+Hongmi Lee and Brice A. Kuhl tested whether faces could be reconstructed from the ‘angular gyrus’ (ANG) located in the upper back area of the brain through functional magnetic resonance imaging (fMRI) activity patterns.
+They conducted the experiment by making facial reconstructions based on brainwave patterns from participants, initially during their perception of faces and later just from memory.
+
+Participants were shown more than 1,000 color photos of different faces, one after another, while an fMRI scan recorded their neural responses.
+
+The researchers then applied principal component analysis (PCA) to generate 300 ‘eigenfaces’ - a set of vectors used in human face recognition. Each of these eigenfaces represented some statistical aspect of the data gathered in the scans and was related to particular neural activity.
+
+“Activity patterns evoked by individual faces were then used to generate predicted eigenface values, which could be transformed into reconstructions of individual faces,” they wrote in the study.
+The scientists then turned to the ‘mind-reading’ element of the experiment, showing participants a new set of faces and analyzing their neural responses to create eigenfaces.
+
+They developed a digital reconstruction of faces based on this and found these eigenfaces were substantially more similar to the actual test faces than would be expected from chance.
+
+Participants were asked to recall a face and hold it in their memory while these faces were reconstructed based on the neural activity in the ‘angular gyrus’ - a memory-related brain region.
+
+This image shows the test faces along with reconstructions from the perception phase (based on activity in the occipitotemporal cortex or OTC) and the memory phase (based on activity in the angular gyrus or ANG).
+While it's clear the reconstructions aren’t flawless, they do manage to capture some of the main features of the original faces.
+
+The below chart shows the relationship between the properties of the original face and the reconstruction.
+The study reveals that the reconstructions from the perceptual phase were generally better than the memory phase, but it highlights that in both areas of brain activity there are similarities to the original image - not only in skin color but also in perceived “dominance and trustworthiness” of the faces.

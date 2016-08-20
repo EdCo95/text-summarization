@@ -1,0 +1,21 @@
+High Performance Computing Is Supercharging AI
+
+Editor’s note: At the ISC conference next week in Frankfurt, Andrew Ng, chief scientist at Baidu, will present the keynote address and Bryan Catanzaro, research scientist at Baidu’s Silicon Valley AI Lab, will participate in the Analyst Crossfire Panel.
+
+Artificial intelligence powers many of Baidu’s most important products, from search to services. Speech recognition has expanded accessibility, natural language processing helps answer user questions, and image recognition offers more intuitive search results. It’s not surprising that AI is transforming internet companies. We believe the AI revolution will transform many other industries as well, from transportation to healthcare.
+
+AI research has been going on for decades, so you may ask “what has changed to make AI so useful today?” Answer: The combination of large datasets that are now available (thanks to the digitization of our society) and powerful compute resources has allowed the field to make great progress.
+
+We like to make the analogy that data is like fuel for a rocket, and deep neural network models are the rocket engine. Because we have more data than ever, we are able to build bigger rockets, with bigger engines that can take us to new places.
+
+recognition shows that using 10x more data can lower relative error rates by 40 percent.1 Figuring out how to train models on ever larger datasets is therefore a key part of progress in AI.
+
+As datasets grow, high performance computing (HPC) becomes more important in order to train the models. Today, training one of our speech recognition models consumes 20 billion billion math operations (20 exaflops), and that number continues to increase.
+
+Our ability to rapidly iterate on questions about data and models directly connects to progress in AI. This means that ideas from HPC, such as using dense, compute-oriented processors like GPUs, interconnected with high-bandwidth, low-latency interconnects, are key to future progress in AI.
+
+We’re always exploring new ways of scaling our neural network training process. For example, next week Greg Diamos of Baidu is presenting a paper on “persistent recurrent neural networks (RNNs)” at the International Conference on Machine Learning.2 Persistent RNNs accelerate training of small batch size RNNs by a factor of 30. This increases the available parallelism for strong scaling, and also reduces memory consumption, allowing us to train deeper models.
+
+Once we’ve trained an accurate model, the next step is deployment: figuring out how to serve large neural networks to our users. We’ve developed a technique called Batch Dispatch that allows us to serve 7x more users on a single GPU for interactive applications, while keeping latency low. This allows us to bring the benefits of advanced AI to users at scale.
+
+AI is an amazing tool that is helping people create exciting applications. Despite all the recent progress, we still see huge untapped opportunities ahead. There are many areas, including precision agriculture, consumer finance and medicine, where we see a clear opportunity for AI to have a big impact. The best is still to come.

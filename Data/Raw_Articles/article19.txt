@@ -1,0 +1,38 @@
+Google’s Demis Hassabis on using artificial intelligence on everything from climate change to aging.
+The following is a condensed and edited interview with Demis Hassabis, CEO, DeepMind Technologies.
+
+What does DeepMind do?
+Our stated mission is to solve intelligence, and we use the word “solve,” because it can mean a few things. It means to understand intelligence, fundamentally understand it, and re-create it artificially.
+
+If you look at how civilization has been built and everything humans have achieved, it’s down to our intelligence. It’s our minds that have set us apart. So it would seem if you could solve intelligence in this way I’m talking about and make machines smart, then you could do all sorts of incredible things with that.
+
+When you talk to Larry Page or other top executives at Google, are they saying, “Where are we on this? What is the status of our understanding of the brain?”
+Not quite. I update them regularly, and we talk about the overall capabilities of the systems and where we’ve got them to, and then I might make some analogies to brain functions. It’s more that way around rather than querying about where we are on the road map. We get discussions about “at what point should we tackle language?” It’s more that kind of question. Or, if we think about robotics, at what point are we ready to do those things?
+
+Does that mean talking about technologies you’re developing at DeepMind that may be ready to be used in Google products?
+Yeah, that’s right. We will have discussions about that when certain capabilities arrive. We think about “OK, so what does that open up?” We do that on multiple levels when we’re talking to various VPs at Google and various product areas. That’s already yielded some great results, actually. I think I can talk about this now. We’ve used AI to save like 15 percent of the power usage in the data centers, which is huge saving in terms of cost but also great for the environment. They were very surprised, because they’d already optimized it. I think it controls about 120 variables in the data centers. The fans and the cooling systems and so on, and windows and other things, I think, as well. They were pretty astounded. We think there might be even more; it depends on how many sensors you put in. Now that we know that works, we can maybe put more things in.
+
+You’ve said it could be decades before you’ve truly developed artificial general intelligence. Do you think it will happen within your lifetime?
+Well, it depends on how much sleep deprivation I keep getting, I think, because I’m sure that’s not good for your health. So I am a little bit worried about that. I think it’s many decades away for full AI. I think it’s feasible. It could be done within our natural lifetimes, but it may be it’s the next generation. It depends. I’d be surprised if it took more than, let’s say, 100 years.
+
+So once you’ve created a general intelligence, after having drunk the Champagne or whatever you do to celebrate, do you retire?
+No. No, because …
+
+You want to study science?
+Yeah, that’s right. That’s what I really want to build the AI for. That’s what I’ve always dreamed about doing. That’s why I’ve been working on AI my whole life: I see it as the fastest way to make amazing progress in science.
+
+Say you succeed and create a super intelligence. What happens next? Do you donate the technology to the United Nations?
+I think it should be. We’ve talked about this a lot. Actually Eric Schmidt [executive chairman of Alphabet, Google’s parent] has mentioned this. We’ve talked to him. We think that AI has to be used for the benefit of everyone. It should be used in a transparent way, and we should build it in an open way, which we’ve been doing with publishing everything we write. There should be scrutiny and checks and balances on that.
+
+I think ultimately the control of this technology should belong to the world, and we need to think about how that’s done. Certainly, I think the benefits of it should accrue to everyone. Again, there are some very tricky questions there and difficult things to go through, but certainly that’s our belief of where things should go.
+
+When you were a kid, what did you want to be when you grew up?
+Oddly enough, since about the age of 11 or 12, I’ve wanted to do this. To be an AI researcher. Around that age I was playing a lot of chess, and I was doing a lot of programming on my own. One of the first big programs I remember writing around 11 years old was a program to play Othello, or Reversi maybe you call it in the U.S. It was great, although it was a much less complex game. I wrote a traditional alpha beta search. I found a book on it, and I implemented it. It was quite a good program. It could beat my kid brother.
+
+Your brother must have been furious.
+He has great memories of it, actually. He was my game tester and my guinea pig. Basically, from then on I just thought, “Wow, this would be so cool if you could get computers to think and reason and offload some of your thinking to it.” There was one interesting thing that still tickles me now—this idea of setting off your machine to do a task for you. You’re going to sleep, it continues to solve it, and you wake up, and there is the solution. It feels like an extension of your mind that you are able to continue to do work while you’re asleep or even not thinking about the problem.
+
+It seemed obvious to me if you could solve intelligence, then you could use it. It would be like magic, like Arthur C. Clarke says. It does feel like the closest thing to magic, and I think we can use it for incredible good to solve all sorts of really pressing issues that we have, from climate to healthy aging and so on. I think that having more intelligence in the world would be very useful.
+
+Have you ever received any notably horrific advice?
+Oh, wow. I’m not sure I’ve been given any really horrific advice that stands out. I probably would have just ignored it and deleted it from my mind if it was that bad. Actually, in the past, probably during my Ph.D. when I was learning about how academia works, I remember talking to a few very senior scientists about the ability to organize science and top scientists in a different way. Everyone was saying that will be totally impossible: “You’ll never get more than 20 researchers to work together in a productive way.” I’ve been given that advice all the way as we’ve been building DeepMind. It just hasn’t held true. The sum is greater than the individual parts.

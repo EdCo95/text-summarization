@@ -1,0 +1,30 @@
+Machine-Vision Algorithm Learns to Transform Hand-Drawn Sketches Into Photorealistic Images
+
+Deep neural networks are beginning to outperform humans in a rapidly increasing variety of vision-related tasks.
+Drawing an accurate sketch of a person’s face is an art that is hard for most people to master. But it turns out to be relatively easy for computers. Various programs exist for converting images into line drawings. That often produces a decent start, although these systems can have difficulty with shadows and high contrast.
+
+A more promising approach is to use machine-vision algorithms that rely on neural networks to extract features from an image and use these to produce a sketch. In this area, machines have begun to rival and even outperform humans in producing accurate sketches.
+
+But what of the inverse problem? This starts with a sketch and aims to produce an accurate color photograph of the original face. That’s clearly a much harder task, so much so that humans rarely even try.
+
+Now the machines have cracked this problem. Today, Yagmur Gucluturk, Umut Guclu, and pals at Radboud University in the Netherlands have taught a neural network to turn hand-drawn sketches of faces into photorealistic portraits. The work is yet another demonstration of the way intelligent machines, and neural networks in particular, are beginning to outperform humans in an increasingly wide variety of tasks.
+
+The Radboud team begins with a data set of 200,000 images of faces taken from the Internet. They converted these to line drawings, grayscale sketches and color sketches, using standard image-processing algorithms. This created a substantial training data set to teach a deep convolutional neural network with 11-layers to do the task in reverse: turn a sketch into a photorealistic color photograph of a face.
+
+Having trained the net, the team then put it through its paces using another data set. The task for the neural net was to start with the sketch and produce a photorealistic image.
+
+The results are impressive, particularly when the neural network started with line drawings. ”We found that the line model performed impressively in terms of matching the hair and skin color of the individuals even when the line sketches did not contain any color information,” say the team.
+
+The reason seems clear. “This may indicate that along with taking advantage of the luminance differences in the sketches to infer coloring, the model was able to learn color properties often associated with high-level face features of different ethnicities,” they suggest.
+
+Next the team tested the neural net on an entirely different data set using hand-drawn sketches which are obviously generated in an entirely different way from those the net was trained on. “Once again, the model synthesized photorealistic face images,” they say.
+
+The net wasn’t perfect, of course. In particular, it had trouble when pencil strokes in hand-drawn sketches were not accompanied by shading. This led to in less realistic results. “This can be explained by the lack of such features in the training data of the line sketch model,” they say, adding that this shortcoming can be easily overcome by including examples in the training set that more closely resembling the drawing style of the sketch artists,” say the Radboud researchers.
+
+Finally, the team allowed their neural net to showboat by producing photorealistic images of artists such as Rembrandt and Van Gogh from sketched self-portraits that both artists had made.
+
+That’s impressive work that shows how deep neural networks are rapidly beginning to outperform humans in vision tasks. The obvious immediate application is in forensics, where accurate images of suspects have to be constructed by police artists.
+
+And this is just one way of many ways that these machines are showing their supremacy. Machine-vision algorithms can also do tasks such as copy and paste artistic style from one image to another, add color to grayscale images accurately, and transform low-resolution images into high resolution ones.
+
+All this has happened in just a couple of years of development, and deep neural networks have much further to go. It’s hard to predict what they will be capable of in, say, just a year’s time.
