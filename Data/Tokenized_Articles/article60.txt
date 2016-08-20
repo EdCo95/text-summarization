@@ -1,0 +1,104 @@
+Maluuba is getting machines closer to reading like humans do
+The AI company's results beat Google's and Facebook's
+Today, Canadian artificial intelligence company Maluuba released impressive results for a type of machine learning focused on teaching computers to read like humans do.
+
+
+Companies like Google, Facebook, and IBM have actively been working on this area of research  known as machine learning comprehension  but experts agree it's not nearly as advanced as image and voice recognition technology.
+
+
+Maluuba's results show that, in the near future, machines could be able to understand text like we do.
+
+
+Maluuba has built a program called EpiReader.
+
+
+It's designed to solve a specific kind of machine comprehension task: a word is removed from a block of text and EpiReader determines the missing word based on context.
+
+
+EpiReader does this using two neural networks, a type of AI inspired by how neurons work in the human brain.
+
+
+The first neural net picks a set of likely answers based on its understanding of the paragraph.
+
+
+The second evaluates the reasoning used by the first to come up with the right answer.
+
+
+(Watch the video to see this process in action.)
+
+
+Maluuba tested EpiReader on two very large collections of texts.
+
+
+The CNN / Daily Mail collection, which Google DeepMind released last summer, is comprised of over 300,000 articles from those news websites.
+
+
+(Maluuba only used the CNN portion of the dataset in their research.)
+
+
+The Children's Book Test, which Facebook posted online in February, is made up of 98 classic children's books sourced from Project Gutenberg.
+
+
+EpiReader was trained on these collections, reading them each roughly a dozen times and using machine learning to build a semantic meaning of the words.
+
+
+Then EpiReader started filling in blanks, scoring 74 percent and 67.4 percent accuracy on the two datasets respectively.
+
+
+Experts agree that these are the highest results seen yet for machine reading comprehension on these two tests, which are considered benchmarks in the field.
+
+
+They beat out results from the tests' creators, Google DeepMind and Facebook, in addition to results posted by IBM Watson in March.
+
+
+"Maluuba's numbers are impressive," Kyunghyun Cho, a joint assistant professor at NYU's Center for Data Sciences and the Courant Institute for Mathematical Sciences, who has no affiliation with Maluuba, told The Verge.
+
+
+One of the larger goals in machine comprehension research is to build an automated researcher  a program that can take a question, search the internet, gather relevant information, and give you an answer.
+
+
+"Obviously, what these researchers have done is much more limited than a general automated researcher, but it's on the way there," said Cho.
+
+
+Yoshua Bengio, a professor at the University of Montreal and head of the Montreal Institute for Learning Algorithms, called the EpiReader an interesting improvement, but cautioned there's still a lot more work to be done.
+
+
+EpiReader is still nowhere near human-level comprehension, he told The Verge.
+
+
+Bengio, who is an advisor to Maluuba, said that work like Maluuba's and others in the field will enable more sophisticated machine learning in dialogue-based assistants like Siri, Cortana, and Alexa, making their question-answering abilities much more robust.
+
+
+While AI assistants can answer queries, these programs mostly rely on structured databases that are programmed by engineers.
+
+
+But EpiReader and programs like it aren't pre-programed with knowledge.
+
+
+Instead they use machine learning to build a probabilistic model of how words are related to each other in a text.
+
+
+This allows them to understand and draw conclusions about unstructured natural language, which can be found anywhere from books to websites, and comprises a large chunk of human knowledge.
+
+
+"We really wanted to incorporate the higher level reasoning function of human beings into EpiReader, the way we go about thinking about the world," Adam Trischler, Maluuba's head of research, told The Verge.
+
+
+Mohamed Musbah, Maluuba's head of product, said the company hopes to one day use EpiReader to create programs that can read through boring documents like user manuals and customer service documents in order to answer questions for readers.
+
+
+Maluuba, which recently raised $9 million in Series A funding round to open up a new research facility, did not share any concrete plans for a product that incorporates EpiReader.
+
+
+"This kind of technology will be in every kind of user interface in the future," said Bengio, referring not to Maluuba's technology specifically, but to natural language comprehension in general.
+
+
+"The potential market of understanding what people say or write or document, this is huge, even bigger than the market for computer vision, I think.
+
+
+Because it has to do with how we interact with computers.
+
+
+This is going to be everywhere."
+
+

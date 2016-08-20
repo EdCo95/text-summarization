@@ -1,0 +1,41 @@
+Human memory whizz Wang Yuheng beats Alipay's AI robot in facial recognition contest
+He beat robot Mark to identify the childhood photos of two female celebrities.
+
+
+Artificial intelligence may be incredibly powerful today, but sometimes a human brain is still best  a Chinese celebrity famed for his superhuman photographic memory capabilities has beaten an AI robot in a live facial recognition context.
+
+
+Alipay, owned by Ant Financial, is China's largest digital payment service with 48% market share and more than 190 million active users, which also makes it the world's largest mobile payment service.
+
+
+The service has recently launched a facial recognition AI feature for its service called Mark, that can identify and authenticate users of the payment service with a 99.5% success rate.
+
+
+To celebrate the launch of Mark, Alipay held a publicity stunt where it challenged Wang Yuheng, a 34-year-old Beijing-based man who won a reality TV competition called The Brain to beat the computer, and to their surprise, he did.
+
+
+The first two rounds of the competition required Wang and Mark to identify a large number of celebrities in the studio that were livestreaming on iPhones from between 150 and 300 photographs listed on an electronic board, and the AI robot was neck and neck with Wang until the final round, when the contestants were asked to identify the correct childhood photographs of two additional livestreaming hosts.
+
+
+"We wanted to see how the recognition abilities of superhumans like [Wang Yuheng] compared to those of a machine," Dr Chen Jidong, the senior data expert at Ant Financial, told Chinese tech news site TechNode.
+
+
+"We want to absorb and incorporate their special recognition abilities into our algorithm so that our AI can more safely and conveniently service users."
+
+
+The Brain TV show is a Chinese version of the German reality TV show Super Brain, which features contestants with exceptional brainpower that must compete by carrying out challenging tasks.
+
+
+Wang rose to fame after appearing on the show in December 2014, where he was able to successfully identify a specific glass of water out of 520 seemingly identical glasses placed before him.
+
+
+Since then, Wang has been consulting with the police in Shandong province, using his impressive observational skills to identify suspects in unsolved hit-and-run traffic accidents.
+
+
+According to Statista, there are currently 648 million internet users in China, which will rise to 745 million by 2017.
+
+
+There are currently 304 million online payment users in the country.
+
+
+

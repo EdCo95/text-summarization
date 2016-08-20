@@ -1,0 +1,149 @@
+Data Mining Reveals the Six Basic Emotional Arcs of Storytelling
+
+Scientists at the Computational Story Laboratory have analyzed novels to identify the building blocks of all stories.
+
+
+Back in 1995, Kurt Vonnegut gave a lecture in which he described his theory about the shapes of stories.
+
+
+In the process, he plotted several examples on a blackboard.
+
+
+There is no reason why the simple shapes of stories cant be fed into computers, he said.
+
+
+They are beautiful shapes.
+
+
+The video is available on YouTube.
+
+
+Vonnegut was representing in graphical form an idea that writers have explored for centuriesthat stories follow emotional arcs, that these arcs can have different shapes, and that some shapes are better suited to storytelling than others.
+
+
+Vonnegut mapped out several arcs in his lecture.
+
+
+These include the simple arc encapsulating man falls into hole, man gets out of hole and the more complex one of boy meets girl, boy loses girl, boy gets girl.
+
+
+Vonnegut is not alone in attempting to categorize stories into types, although he was probably the first to do it in graphical form.
+
+
+Aristotle was at it over 2,000 years before him, and many others have followed in his footsteps.
+
+
+However, there is little agreement on the number of different emotional arcs that arise in stories or their shape.
+
+
+Estimates vary from three basic patterns to more than 30.
+
+
+But there is little in the way of scientific evidence to favor one number over another.
+
+
+Today, that changes thanks to the work of Andrew Reagan at the Computational Story Lab at the University of Vermont in Burlington and a few pals.
+
+
+These guys have used sentiment analysis to map the emotional arcs of over 1,700 stories and then used data-mining techniques to reveal the most common arcs.
+
+
+We find a set of six core trajectories which form the building blocks of complex narratives, they say.
+
+
+Their method is straightforward.
+
+
+The idea behind sentiment analysis is that words have a positive or negative emotional impact.
+
+
+So words can be a measure of the emotional valence of the text and how it changes from moment to moment.
+
+
+So measuring the shape of the story arc is simply a question of assessing the emotional polarity of a story at each instant and how it changes.
+
+
+Reagan and co do this by analyzing the emotional polarity of word windows and sliding these windows through the text to build up a picture of how the emotional valence changes.
+
+
+They performed this task on over 1,700 English works of fiction that had each been downloaded from the Project Gutenberg website more than 150 times.
+
+
+Finally, they used a variety of data-mining techniques to tease apart the different emotional arcs present in these stories.
+
+
+The results make for interesting reading.
+
+
+Reagan and co say that their techniques all point to the existence of six basic emotional arcs that form the building blocks of more complex stories.
+
+
+They are also able to identify the stories that are the best examples of each arc.
+
+
+The six basic emotional arcs are these:
+
+A steady, ongoing rise in emotional valence, as in a rags-to-riches story such as Alices Adventures Underground by Lewis Carroll.
+
+
+A steady ongoing fall in emotional valence, as in a tragedy such as Romeo and Juliet.
+
+
+A fall then a rise, such as the man-in-a-hole story, discussed by Vonnegut.
+
+
+A rise then a fall, such as the Greek myth of Icarus.
+
+
+Rise-fall-rise, such as Cinderella.
+
+
+Fall-rise-fall, such as Oedipus.
+
+
+Finally, the team looks at the correlation between the emotional arc and the number of story downloads to see which types of arc are most popular.
+
+
+It turns out the most popular are stories that follow the Icarus and Oedipus arcs and stories that follow more complex arcs that use the basic building blocks in sequence.
+
+
+In particular, the team says the most popular are stories involving two sequential man-in-hole arcs and a Cinderella arc followed by a tragedy.
+
+
+Of course, many books follow more complex arcs at more fine-grained resolution.
+
+
+Reagan and cos method does not capture the changes in emotional polarity that occur on the level of paragraphs, for example.
+
+
+But instead, it captures the much broader emotional arcs involved in storytelling.
+
+
+Their story arcs are available here.
+
+
+Thats interesting work that provides empirical evidence for the existence of basic story arcs for the first time.
+
+
+It also provides an important insight into the nature of storytelling and its appeal to the human psyche.
+
+
+It also sets the scene for the more ambitious work.
+
+
+Reagan and co look mainly at works of fiction in English.
+
+
+It would be interesting to see how emotional arcs vary according to language or culture, how they have varied over time and also how factual books compare.
+
+
+Vonnegut famously outlined his theory of story shapes in his masters thesis in anthropology at the University of Chicago.
+
+
+It was summarily rejected, in Vonneguts words, because it was so simple, and looked like too much fun."
+
+
+Today he would surely be amused but unsurprised.
+
+
+

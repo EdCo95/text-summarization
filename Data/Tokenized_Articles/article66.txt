@@ -1,0 +1,89 @@
+How web search data might help diagnose serious illness earlier
+Early diagnosis is key to gaining the upper hand against a wide range of diseases.
+
+
+Now Microsoft researchers are suggesting that records of the topics that people search for on the Internet could one day prove as useful as an X-ray or MRI in detecting some illnesses before its too late.
+
+
+The potential of using engagement with search engines to predict an eventual diagnosis  and possibly buy critical time for a medical response  is demonstrated in a new study by Microsoft researchers Eric Horvitz and Ryen White, along with former Microsoft intern and Columbia University doctoral candidate John Paparrizos.
+
+
+In a paper published Tuesday in the Journal of Oncology Practice, the trio detailed how they used anonymized Bing search logs to identify people whose queries provided strong evidence that they had recently been diagnosed with pancreatic cancer  a particularly deadly and fast-spreading cancer that is frequently caught too late to cure.
+
+
+Then they retroactively analyzed searches for symptoms of the disease over many months prior to identify patterns of queries most likely to signal an eventual diagnosis.
+
+
+We find that signals about patterns of queries in search logs can predict the future appearance of queries that are highly suggestive of a diagnosis of pancreatic adenocarcinoma,  the medical term for pancreatic cancer, the authors wrote.
+
+
+We show specifically that we can identify 5 to 15 percent of cases while preserving extremely low false positive rates of as low as 1 in 100,000.
+
+
+The researchers used large-scale anonymized data and complied with best practices in ethics and privacy for the study.
+
+
+Horvitz, a technical fellow and managing director of Microsofts research lab in Redmond, Washington, said the method shows the feasibility of a new form of screening that could ultimately allow patients and their physicans to diagnose pancreatic cancer and begin treatment weeks or months earlier than they otherwise would have.
+
+
+Thats an important advantage in fighting a disease with a very low survival rate if it isnt caught early.
+
+
+Pancreatic cancer  the fourth leading cause of cancer death in the United States  was in many ways the ideal subject for the study because it typically produces a series of subtle symptoms, like itchy skin, weight loss, light-colored stools, patterns of back pain and a slight yellowing of the eyes and skin that often dont prompt a patient to seek medical attention.
+
+
+Horvitz, an artificial intelligence expert who holds both a Ph.D. and an MD from Stanford University, said the researchers found that queries entered to seek answers about that set of symptoms can serve as an early warning for the onset of illness.
+
+
+But Horvitz said that he and White, chief technology officer for Microsoft Health and an information retrieval expert, believe that analysis of search queries could have broad applications.
+
+
+We are excited about applying this analytical pipeline to other devastating and hard-to-detect diseases, Horvitz said.
+
+
+Horvitz and White emphasize that the research was done as a proof of concept that such a different kind of sensor network or monitoring system is possible.
+
+
+The researchers said Microsoft has no plans to develop any products linked to the discovery.
+
+
+Instead, the authors said, they hope the positive results from the feasibility study will excite the broader medical community and generate discussion about how such a screening methodology might be used.
+
+
+They suggest that it would likely involve analyzing anonymized data and having a method for people who opt in to receive some sort of notification about health risks, either directly or through their doctors, in the event algorithms detected a pattern of search queries that could signal a health concern.
+
+
+But White said the search analysis would not be a medical opinion.
+
+
+The goal is not to perform the diagnosis, he said.
+
+
+The goal is to help those at highest risk to engage with medical professionals who can actually make the true diagnosis.
+
+
+White and Horvitz said they wanted to take the results of the pancreatic cancer study directly to those in a position to do something with the results, which is why they chose to first publish in a medical journal.
+
+
+I guess Im at a point now in my career where Im not interested in the potential for impact, White said of the decision.
+
+
+I actually want to have impact.
+
+
+I would like to see the medical community pick this up and take it as a technology, and work with us to enable this type of screening.
+
+
+And Horvitz, who said he lost his best childhood friend and, soon after, a close colleague in computer science to pancreatic cancer, said the stakes are too high to delay getting the word out.
+
+
+People are being diagnosed too late, he said.
+
+
+We believe that these results frame a new approach to pre-screening or screening, but theres work to do to go from the feasibility study to real-world fielding.
+
+
+Horvitz and White have previously teamed up on other search-related medical studies  notably a 2008 analysis of cyberchondria  or medical anxiety that is stimulated by symptom searches on the web, as Horvitz puts it  and analyses of search logs that identify adverse effects of medications.
+
+
+

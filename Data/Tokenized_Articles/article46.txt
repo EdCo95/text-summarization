@@ -1,0 +1,201 @@
+Deep Learning Isnt a Dangerous Magic Genie.
+
+
+Its Just Math
+
+DEEP LEARNING IS rapidly eating artificial intelligence.
+
+
+But lets not mistake this ascendant form of artificial intelligence for anything more than it really is.
+
+
+The famous author Arthur C. Clarke wrote, Any sufficiently advanced technology is indistinguishable from magic.
+
+
+And deep learning is certainly an advanced technologyit can identify objects and faces in photos, recognize spoken words, translate from one language to another, and even beat the top humans at the ancient game of Go.
+
+
+But its far from magic.
+
+
+As companies like Google and Facebook and Microsoft continue to push this technology into everyday online servicesand the world continues to marvel at AlphaGo, Googles Go playing super-machinethe pundits often describe deep learning as an imitation of the human brain.
+
+
+But its really just simple math executed on an enormous scale.
+
+
+In particular, deep learning is a class of algorithmic methods for tuning neural networks based on data.
+
+
+What does that mean?
+
+
+Well, a neural network is a computer program, loosely inspired by the structure of the brain, which consists of a large number of very simple interconnected elements.
+
+
+Each element takes numeric inputs, and computes a simple function (for example, a sum) over the inputs.
+
+
+The elements are far simpler than neurons, and the number of elements and their interconnections is several orders of magnitude smaller than the number of neurons and synapses in the brain.
+
+
+Deep learning merely strengthens the connections in such networks.
+
+
+Deep learning is a subfield of machine learning, which is a vibrant research area in artificial intelligence, or AI.
+
+
+Abstractly, machine learning is an approach to approximating functions based on a collection of data points.
+
+
+For example, given the sequence 2, 4, 6, a machine might predict that the 4th element of the sequence is 8, and that the 5th is 10, by hypothesizing that the sequence is capturing the behavior of the function 2 times X, where X is the position of the element in the sequence.
+
+
+This paradigm is quite general.
+
+
+It has been highly successful in applications ranging from self-driving cars and speech recognition to anticipating airfare fluctuations and much more.
+
+
+In a sense, deep learning is not unique.
+
+
+Any machine learning systemdeep or notconsists of the following fundamental components:
+
+Performance element: the component of the system that takes some action in the world (e.g., making moves in the game of Go).
+
+
+Target function: the function being learned (e.g., a mapping from board positions to move choices in Go).
+
+
+Training data: the set of labeled data points used to approximate the target function (e.g., a set of Go board positions, each labeled with the move chosen by a human expert in that position).
+
+
+Data representation: each data point is typically represented as a vector of pre-determined variables (e.g., the position of a piece on the Go board).
+
+
+Learning algorithm: the algorithm that computes an approximation of the target function based on the training data.
+
+
+Hypothesis space: the space of possible functions the learning algorithm can consider.
+
+
+This architecture captures the full gamut of machine learning methods from simple linear regression methods to complex deep-learning algorithms.
+
+
+Technically, we are referring to supervised learning where each data point is labeled, typically by humans.
+
+
+When the data isnt labeled, we have unsupervised learning or clustering, and thats much harder to pull off.
+
+
+When some of the data is labeled, we have semi-supervised learning.
+
+
+Statisticians refer to estimating the value of an independent variable based on dependent variables as regression.
+
+
+Its important to realize that the first five components of a machine learning architecture are manually crafted inputs; the human programmer constructs each of these elements, and they are outside of the control of the learning program.
+
+
+In fact, the programmer typically analyzes the behavior of the learning program, realizes that it is unsatisfactory, and manually modifies one or more of these elements.
+
+
+This laborious process is often repeated many times over the course of a year or more before the desired performance level is achieved.
+
+
+Helping Humans
+We can see that that a learning programs abilities are strictly curtailed by this architecture.
+
+
+Specifically:
+
+The program cannot modify any of the components of the architecture.
+
+
+The program cannot modify itself.
+
+
+The program cannot learn a function outside of its hypothesis space.
+
+
+For this reason, a learning program such as AlphaGo cannot learn to play chess or checkers without extensive human labor.
+
+
+Moreover, most programmers are not able to successfully modify machine-learning systems without substantial specialized training.
+
+
+Even highly trained data scientists require substantial time and resources to build successful systems.
+
+
+The design and implementation of the AlphaGo system required more than 30 million training examples culled from the Internet, and years of effort by a large team of researchers and engineers.
+
+
+In fact, merely improving AlphaGos performance from defeating the European Go champion, Fan Hui, to defeating Lee Sedol required several months of intensive work.
+
+
+AlphaGo also utilized a class of machine-learning methods known as reinforcement learning where the program learns to maximize a reward by choosing actions, repeatedly, and observing the outcome.
+
+
+AlphaGo repeatedly chose Go moves, and observed the outcome of the game.
+
+
+In reinforcement learning, training data is not a pre-labeled input.
+
+
+Instead, the learning program is provided with a reward function that assigns a reward to different states of the world.
+
+
+While reinforcement learning methods acquire their training data by taking actions, and observing rewards, the analysis of machine learning in this article applies equally well to reinforcement learningsuch methods are still constrained by their target function, data representation, and hypothesis space, among other things.
+
+
+The Space of Possibilities
+Evolution is often cited as an example of the unbridled power of learning to produce remarkable results, but it is essential to understand the distinction between the evolutionary process of natural selection and its simulation in a computer program.
+
+
+Programs that attempt to simulate evolutionary processes in a computer are called genetic algorithms, and have not been particularly successful
+Genetic algorithms modify a representation of the organism, and such representations tend to be very large.
+
+
+For example, the human genome is estimated to contain more than a billion bits of information.
+
+
+This means the number of possible human DNA sequences is two to the power of a billion.
+
+
+Exploring much of that space computationally is prohibitively expensive.
+
+
+Yet, the topology of this space does not lend itself to algorithms that can take easy short cuts to a solution.
+
+
+In contrast, the game of Go defines a far smaller space of possibilities, and one that is far easier to explore using machine learning methods.
+
+
+When we can successfully define an objective function and reduce a real-world task to an optimization problem, computer scientists, operations researchers, and statisticians have a decades-long track record of solving such problems (sooner or later).
+
+
+However, many problems require additional analysis before they can even be represented to a machine in a form that it can manipulate.
+
+
+For example, how do we write down the meaning of a single sentence in a machine-understandable language?
+
+
+As Gerald Sussman put it, you cant learn what you cant represent.
+
+
+In this case, the problem of choosing an appropriate representation is far from being formulated effectively, let alone solved.
+
+
+Thus, deep learning (and machine learning in general) has proven to be a powerful class of methods in AI, but current machine learning methods require substantial human involvement to formulate a machine learning problem and substantial skill and time to iteratively reformulate the problem until it is solvable by a machine.
+
+
+Most important, the process is narrowly circumscribed, providing the machine with a very limited degree of autonomy; unlike people, AI does not beget autonomy
+
+Machine learning is far from being a genie that is ready to spring from a bottle and run amok.
+
+
+Rather, it is a step in a decades-long (or, perhaps, centuries-long) research endeavor to understand intelligence and to construct human-level AI.
+
+
+

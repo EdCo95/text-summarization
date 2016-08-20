@@ -1,0 +1,223 @@
+Can Neuroscience Understand Donkey Kong, Let Alone a Brain?
+
+
+Two researchers applied common neuroscience techniques to a classic computer chip.
+
+
+Their results are a wake-up call for the whole field.
+
+
+The human brain contains 86 billion neurons, underlies all of humanitys scientific and artistic endeavours, and has been repeatedly described as the most complex object in the known universe.
+
+
+By contrast, the MOS 6502 microchip contains 3510 transistors, runs Space Invaders, and wouldnt even be the most complex object in my pocket.
+
+
+We know very little about how the brain works, but we understand the chip completely.
+
+
+So, Eric Jonas and Konrad Kording wondered, what would happen if they studied the chip in the style of neuroscientists?
+
+
+How would the approaches that are being used to study the complex squishy brain fare when used on a far simpler artificial processor?
+
+
+Could they re-discover everything we know about its transistors and logic gates, about how they process information and run simple video games?
+
+
+Forget attention, emotion, learning, memory, and creativity; using the techniques of neuroscience, could Jonas and Kording comprehend Donkey Kong?
+
+
+No.
+
+
+They couldnt.
+
+
+Not even close.
+
+
+Even though the duo knew everything about the chipthe state of each transistor and the voltage along every wiretheir inferences were trivial at best and seriously misleading at worst.
+
+
+Most of my friends assumed that wed pull out some insights about how the processor works, says Jonas.
+
+
+But what we extracted was so incredibly superficial.
+
+
+We saw that the processor has a clock and it sometimes reads and writes to memory.
+
+
+Awesome, but in the real world, this would be a millions-of-dollars data set.
+
+
+Last week, the duo uploaded their paper, titled Could a neuroscientist understand a microprocessor?
+
+
+after a classic from 2002.
+
+
+It reads like both a playful thought experiment (albeit one backed up with data) and a serious shot across the bow.
+
+
+And although it has yet to undergo formal peer review, other neuroscientists have already called it a landmark paper, a watershed moment, and the paper we all had in our minds but didn't dare to write.
+
+
+While their findings will not necessarily be surprising for a chip designer, they are humbling for a neuroscientist, wrote Steve Fleming from University College London on his blog.
+
+
+This kind of soul-searching is exactly what we need to ensure neuroscience evolves in the right direction.
+
+
+If it doesnt work on the chip, how can we expect it to work on the brain?
+
+
+Elizabeth Clark-Polner from Yale University notes that the duos approach is standard practice in fields like physics.
+
+
+At CERN, before using their algorithms on data from the Large Hadron Collider to look for a new particle like the Higgs boson, researchers first tested them by rediscovering a series of older, well known particles, she says.
+
+
+In other sciences, like biology, this is still lacking.
+
+
+Critics might argue that the brain is not a computer.
+
+
+It is messier in its architecture, fundamentally different in how it deals with information and memory, and comes with a body attached.
+
+
+All true, but the point is that the chips myriad differences should make it much easier to understand than the brain.
+
+
+Its not, and that should make us cautious about not just the current state of neuroscience, but also its future.
+
+
+It suggests that our beliefs about how we might make more progress must be recalibrated, says Clark-Polner.
+
+
+Many scientists have placed their hopes on big data, gleaned from new technologies that can record the buzzing of thousands of individual neurons, map their connections, and film the activity of entire brains in living animals.
+
+
+This hope is reflected in equally big budgets.
+
+
+In 2013, the troubled Human Brain Project nabbed $1.3 billion from the European Commission to try and build a simulation of the brain, while President Obama launched the BRAIN Initiative, an ambitious plan to develop new brain-imaging technologies.
+
+
+When they announced the BRAIN Initiative, I thought: Oh my god, the future is going to be here, says Jonas.
+
+
+But the problem is much harder than I thought it would be.
+
+
+Big data alone isnt going to save us.
+
+
+Jonas came up with the idea for this study after reading about a team of microchip archaeologists who had painstakingly reconstructed the classic MOS 6502 chip.
+
+
+They photographed it with a microscope, labelled different regions, identified its connectionsexactly what neuroscientists do to map the brains network of neurons, or connectome.
+
+
+It shocked me that the exact same techniques were being used by these retro-computing enthusiasts, he says.
+
+
+It made me think that the analogy [between the chip and the brain] is incredibly strong.
+
+
+I see this paper as a fantastic reality check for the field.
+
+
+We may not lack in data but in ways of interpreting it.
+
+
+Rather than working with an actual chip, Jonas and Kording used a simulation, albeit one accurate enough to run classic games like Donkey Kong, Space Invaders, and Pitfall.
+
+
+That gave them experimental omniscience and omnipotencethey knew everything and could tweak anything.
+
+
+For example, they could disable each of the chips transistors one at a time.
+
+
+And by doing so, they found several that were essential for booting up all three games, and others that were essential for just one.
+
+
+Brain scientists have doing something similar for centuries, either by studying people with localized brain damage or by temporarily shutting down specific brain regions.
+
+
+Through such studies, theyve labelled different areas as memory centers or language centers or emotional centers.
+
+
+But Jonas and Kordings work shows why such inferences can be deceptive.
+
+
+They didnt find Donkey Kong transistors or Space Invaders transistors; instead, they found components that carry out basic processes that just so happen to be important for those particular games.
+
+
+They also tried out five other common approachesthe equivalents of analyzing individual neurons, or averaging activity in a small region as in fMRI brain-scanning, or taking a god-like view and look for patterns across the entire brain.
+
+
+None of these told the team anything useful about how the chip works.
+
+
+Kelly Clancy from the University of Basel says, I see this paper as a fantastic reality check for the field.
+
+
+We may not lack in data but in ways of interpreting it.
+
+
+This doesnt mean that neuroscientists have been wasting their time, or that we know nothing about the brain.
+
+
+We know that some medicines can affect the brain and improve peoples lives, without knowing exactly how they work.
+
+
+We can see that damage to a certain area robs people of a particular ability, without knowing what that area normally does.
+
+
+The techniques of neuroscience are far from useless, says Clancy.
+
+
+Theyre effective readouts of health and illness, marking changes related to disease, learning, pharmaceuticals, and so on.
+
+
+But using them to sieve meaning about the fundamental logic of our nervous system is another matter.
+
+
+To move forward, Jonas says that neuroscientists need to put more effort into testing their theories about the brain.
+
+
+There are a lot of theories about how different parts of the brain might function, but they dont make falsifiable predictions.
+
+
+They have so many different knobs you can turn that they can be arbitrarily extended to fit arbitrary bits of data.
+
+
+Its very hard to kick any of these ideas to the curb.
+
+
+Microprocessors might help.
+
+
+If someone has a new theory about how the brain deals with information, or a technique for analyzing brain data, lets see how much closer it gets us to understanding the chip, says Kording.
+
+
+If it doesnt work on the chip, how can we expect it to work on the brain?
+
+
+And in the meantime, Jonas wants his peers to be more cautious about the promises they make.
+
+
+The launch of the BRAIN Initiative was accompanied by much rhetoric about understanding and treating neurological and psychiatric conditions.
+
+
+Were so far from that, he says.
+
+
+I worry that if we overpromise and underdeliver, we could end up in a not-great situation.
+
+
+

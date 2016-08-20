@@ -1,0 +1,111 @@
+Tesla Tests Self-Driving Functions with Secret Updates to Its Customers Cars
+
+The Internet connection built into every Tesla gives the company a unique advantage in the race to develop autonomous vehicles.
+
+
+When Tesla Motors introduced the Model S sedan in 2012, one of its many notable features was an always-on cellular Internet connection.
+
+
+A Tesla executive explained today that it has turned into a powerful advantage in the companys contest with other carmakers and Internet giants such as Google to get self-driving cars onto public roads.
+
+
+Tesla can pull down data from the sensors inside its customers vehicles to see how people are driving and the road and traffic conditions they experience.
+
+
+It uses that data to test the effectiveness of new self-driving features.
+
+
+The company even secretly tests new autonomous software by remotely installing it on customer vehicles so it can react to real road and traffic conditions, without controlling the vehicle.
+
+
+The ability to pull high-resolution data from these vehicles and to update the vehicles over the air is a significant part of whats allowed us in 18 months to go from very behind the curve to what is today one of the more advanced autonomous or semi-autonomous driving features, said Sterling Anderson, director of Teslas Autopilot program, at MIT Technology Reviews EmTech Digital conference in San Francisco on Tuesday (see No Industry Can Afford to Ignore Artificial Intelligence).
+
+
+Tesla began bundling a suite of new sensors into its vehicles in 2014, saying it was for a new emergency braking feature.
+
+
+But the 12 ultrasonic sensors positioned around the car sense nearby objects, and the forward-facing cameras and radar units were intended for bigger things.
+
+
+Tesla engineers began using data streaming from cars with those sensors and information on their locations to start testing autonomous driving features.
+
+
+Since introducing this hardware 18 months ago weve accrued 780 million miles, said Anderson.
+
+
+We can use all of that data on our servers to look for how people are using our cars and how we can improve things.
+
+
+Every 10 hours Tesla gets another million miles worth of data, he said.
+
+
+Teslas engineers initially test new self-driving software against those records.
+
+
+Any that perform well can also be tested by secretly installing them onto customer vehicles and watching how they respond to conditions on the road, although the software doesn't actually control the car.
+
+
+We will often install an inert feature on all our vehicles worldwide, said Anderson.
+
+
+That allows us to watch over tens of millions of miles how a feature performs.
+
+
+Andersons team can also watch closely when a new feature is activated.
+
+
+For example, he showed a chart illustrating how self-driving Teslas using the Autopilot feature hold themselves much more tightly to the center of the lane than humans do when steering the car.
+
+
+Since its launch last October, Tesla has logged 100 million miles of vehicles steering themselves (see 10 Breakthrough Technologies 2016: Tesla Autopilot).
+
+
+Teslas ability to pull data from its cars and even covertly test autonomous driving software is likely unique.
+
+
+Google has demonstrated some of the most advanced self-driving technology, but it can only pull data from its fleet of prototypes, likely smaller and less widely distributed than the collection of Tesla vehicles on the road.
+
+
+Other carmakers, such as GM, are also working on self-driving.
+
+
+But they have not embraced the idea of Internet connectivity and over-the-air updates in the way Tesla has.
+
+
+However, Teslas strategy of using its data infrastructure to test and develop its technology in public could run into problems.
+
+
+Google restructured its autonomous car program in 2014 after the concerning results of an experiment in which Google employees could use self-driving prototypes.
+
+
+People quickly became complacent about the technologys abilities, despite the fact that they were supposed to be ready to take over at all times.
+
+
+One guy noticed that his cell-phone battery was low, pulled out his laptop, and plugged it in at 65 miles per hour on the freeway, Chris Urmson, who leads Googles project, said at the EmTech event today.
+
+
+We thought, this is not good.
+
+
+Google committed itself to car designs without steering wheels or pedals, piloted by software alone (see Lazy Humans Shaped Googles New Autonomous Car).
+
+
+Anderson takes a different view.
+
+
+He said Teslas data-centric strategy will allow the company to keep advancing the companys Autopilot technology, for example to include the ability to drive in more urban conditions and handle intersections.
+
+
+Tesla must be aware of drivers expectations, but doesnt need to take them out of the equation altogether, he said.
+
+
+Autopilot is not an autonomous system and should not be treated as one, said Anderson.
+
+
+We ask drivers to keep their hands on [the wheel] and be prepared to take over.
+
+
+This story was updated to correct that Tesla receives another million miles of data from customers' cars every 10 hours, not every 10 days.
+
+
+

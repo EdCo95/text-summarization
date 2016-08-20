@@ -1,0 +1,96 @@
+Algorithms That Learn with Less Data Could Expand AIs Power
+
+Geometric Intelligence says its learning algorithms can pick up new skills faster than those behind the recent flurry of investment in AI.
+
+
+Last year Microsoft and Google both showed that their image-recognition algorithms had learned to best humans.
+
+
+They independently created software that could exceed the average human score on a standard test that challenges software to recognize images of a thousand different objects, from mosques to mosquitoes.
+
+
+But to get good enough to defeat humanity, each company's software scrutinized 1.2 million labeled images.
+
+
+A child can learn to recognize a new kind of object or animal using only one example.
+
+
+Startup Geometric Intelligence said Monday that it has developed machine-learning software that is a much quicker study.
+
+
+CEO Gary Marcus said at MIT Technology Reviews EmTech Digital conference that his XProp software requires significantly fewer examples than the dominant form of machine-learning software, known as deep learning, to learn a new visual task.
+
+
+Marcus didnt disclose details of XProps workings.
+
+
+But he did show a chart comparing how XProp and an unspecified deep-learning program performed on a test that challenges software to learn how to recognize handwritten digits.
+
+
+Both systems could perform more accurately given more training data.
+
+
+But Geometric Intelligences XProp software could make more of the training examples it was given.
+
+
+For example, after seeing only around 150 examples of each digit, it would recognize only around 2 percent of new digits incorrectly.
+
+
+The deep-learning software needed around 700 examples of each to achieve similar performance.
+
+
+That doesnt mean XProp is necessarily useful.
+
+
+Recognizing handwritten digits is more or less a solved problem.
+
+
+Training data is plentiful and the best published results using deep-learning software have error rates of only about 0.2 percent.
+
+
+The advantage shown by XProp over the deep-learning software in the data Marcus showed declined as the amount of training data increased.
+
+
+But Marcus said XProp had also produced similar results on a database of photos of house numbers collected by Googles Street View project, and other image-recognition tests, suggesting the companys technique might be broadly applicable.
+
+
+There is broad agreement among machine-learning researchers that new techniques that can work using less data are needed (see This AI Algorithm Learns Simple Tasks as Fast as We Do).
+
+
+Deep learning is very data hungrywere learning it faster, said Marcus.
+
+
+What we have can sometimes cut the data needed by half, sometimes by a greater ratio.
+
+
+Marcus, a professor of psychology at New York University who has spent decades studying how children learn, is skeptical that recent strides in areas such as speech and image recognition enabled by deep learning will necessarily lead to progress in more challenging areas such as understanding language (see Can This Man Make AI More Human?).
+
+
+Large computing companies such as Google have been able to create powerful speech- and image-recognition software by spending big to assemble giant collections of labeled training data.
+
+
+Marcus doesnt dispute that technology will lead to successful products (see Google Thinks Youre Ready to Converse with Computers).
+
+
+But he believes that making less-data-hungry algorithms is necessary if software is to get closer to the way humans can quickly learn new skills or adapt to changing circumstances.
+
+
+We live in this era of big data, and theres this idea that we can just throw more data at the problem, Marcus told the EmTech audience.
+
+
+But for some problems theres just not enough data.
+
+
+Language is one example, he said.
+
+
+With an infinite number of possible sentences, training software with labeled examples of all the possible meanings it needs to recognize just isnt possible.
+
+
+Marcus also cited self-driving cars as an example where data-hungry machine learning may not be sufficient.
+
+
+If a car has to experience situations over and over again to master them, training it to cope with every possible traffic and weather situation could take a very long time, he said.
+
+
+

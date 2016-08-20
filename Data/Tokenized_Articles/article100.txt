@@ -1,0 +1,488 @@
+Soon We Wont Program Computers.
+
+
+Well Train Them Like Dogs
+BEFORE THE INVENTION of the computer, most experimental psychologists thought the brain was an unknowable black box.
+
+
+You could analyze a subjects behaviorring bell, dog salivatesbut thoughts, memories, emotions?
+
+
+That stuff was obscure and inscrutable, beyond the reach of science.
+
+
+So these behaviorists, as they called themselves, confined their work to the study of stimulus and response, feedback and reinforcement, bells and saliva.
+
+
+They gave up trying to understand the inner workings of the mind.
+
+
+They ruled their field for four decades.
+
+
+Then, in the mid-1950s, a group of rebellious psychologists, linguists, information theorists, and early artificial-intelligence researchers came up with a different conception of the mind.
+
+
+People, they argued, were not just collections of conditioned responses.
+
+
+They absorbed information, processed it, and then acted upon it.
+
+
+They had systems for writing, storing, and recalling memories.
+
+
+They operated via a logical, formal syntax.
+
+
+The brain wasnt a black box at all.
+
+
+It was more like a computer.
+
+
+The so-called cognitive revolution started small, but as computers became standard equipment in psychology labs across the country, it gained broader acceptance.
+
+
+By the late 1970s, cognitive psychology had overthrown behaviorism, and with the new regime came a whole new language for talking about mental life.
+
+
+Psychologists began describing thoughts as programs, ordinary people talked about storing facts away in their memory banks, and business gurus fretted about the limits of mental bandwidth and processing power in the modern workplace.
+
+
+This story has repeated itself again and again.
+
+
+As the digital revolution wormed its way into every part of our lives, it also seeped into our language and our deep, basic theories about how things work.
+
+
+Technology always does this.
+
+
+During the Enlightenment, Newton and Descartes inspired people to think of the universe as an elaborate clock.
+
+
+In the industrial age, it was a machine with pistons.
+
+
+(Freuds idea of psychodynamics borrowed from the thermodynamics of steam engines.)
+
+
+Now its a computer.
+
+
+Which is, when you think about it, a fundamentally empowering idea.
+
+
+Because if the world is a computer, then the world can be coded.
+
+
+Code is logical.
+
+
+Code is hackable.
+
+
+Code is destiny.
+
+
+These are the central tenets (and self-fulfilling prophecies) of life in the digital age.
+
+
+As software has eaten the world, to paraphrase venture capitalist Marc Andreessen, we have surrounded ourselves with machines that convert our actions, thoughts, and emotions into dataraw material for armies of code-wielding engineers to manipulate.
+
+
+We have come to see life itself as something ruled by a series of instructions that can be discovered, exploited, optimized, maybe even rewritten.
+
+
+Companies use code to understand our most intimate ties; Facebooks Mark Zuckerberg has gone so far as to suggest there might be a fundamental mathematical law underlying human relationships that governs the balance of who and what we all care about.
+
+
+In 2013, Craig Venter announced that, a decade after the decoding of the human genome, he had begun to write code that would allow him to create synthetic organisms.
+
+
+It is becoming clear, he said, that all living cells that we know of on this planet are DNA-software-driven biological machines.
+
+
+Even self-help literature insists that you can hack your own source code, reprogramming your love life, your sleep routine, and your spending habits.
+
+
+In this world, the ability to write code has become not just a desirable skill but a language that grants insider status to those who speak it.
+
+
+They have access to what in a more mechanical age would have been called the levers of power.
+
+
+If you control the code, you control the world, wrote futurist Marc Goodman.
+
+
+(In Bloomberg Businessweek, Paul Ford was slightly more circumspect: If coders dont run the world, they run the things that run the world.
+
+
+Tomato, tomahto.)
+
+
+But whether you like this state of affairs or hate itwhether youre a member of the coding elite or someone who barely feels competent to futz with the settings on your phonedont get used to it.
+
+
+Our machines are starting to speak a different language now, one that even the best coders cant fully understand.
+
+
+Over the past several years, the biggest tech companies in Silicon Valley have aggressively pursued an approach to computing called machine learning.
+
+
+In traditional programming, an engineer writes explicit, step-by-step instructions for the computer to follow.
+
+
+With machine learning, programmers dont encode computers with instructions.
+
+
+They train them.
+
+
+If you want to teach a neural network to recognize a cat, for instance, you dont tell it to look for whiskers, ears, fur, and eyes.
+
+
+You simply show it thousands and thousands of photos of cats, and eventually it works things out.
+
+
+If it keeps misclassifying foxes as cats, you dont rewrite the code.
+
+
+You just keep coaching it.
+
+
+This approach is not newits been around for decadesbut it has recently become immensely more powerful, thanks in part to the rise of deep neural networks, massively distributed computational systems that mimic the multilayered connections of neurons in the brain.
+
+
+And already, whether you realize it or not, machine learning powers large swaths of our online activity.
+
+
+Facebook uses it to determine which stories show up in your News Feed, and Google Photos uses it to identify faces.
+
+
+Machine learning runs Microsofts Skype Translator, which converts speech to different languages in real time.
+
+
+Self-driving cars use machine learning to avoid accidents.
+
+
+Even Googles search enginefor so many years a towering edifice of human-written ruleshas begun to rely on these deep neural networks.
+
+
+In February the company replaced its longtime head of search with machine-learning expert John Giannandrea, and it has initiated a major program to retrain its engineers in these new techniques.
+
+
+By building learning systems, Giannandrea told reporters this fall, we dont have to write these rules anymore.
+
+
+But heres the thing: With machine learning, the engineer never knows precisely how the computer accomplishes its tasks.
+
+
+The neural networks operations are largely opaque and inscrutable.
+
+
+It is, in other words, a black box.
+
+
+And as these black boxes assume responsibility for more and more of our daily digital tasks, they are not only going to change our relationship to technologythey are going to change how we think about ourselves, our world, and our place within it.
+
+
+If in the old view programmers were like gods, authoring the laws that govern computer systems, now theyre like parents or dog trainers.
+
+
+And as any parent or dog owner can tell you, that is a much more mysterious relationship to find yourself in.
+
+
+ANDY RUBIN IS an inveterate tinkerer and coder.
+
+
+The cocreator of the Android operating system, Rubin is notorious in Silicon Valley for filling his workplaces and home with robots.
+
+
+He programs them himself.
+
+
+I got into computer science when I was very young, and I loved it because I could disappear in the world of the computer.
+
+
+It was a clean slate, a blank canvas, and I could create something from scratch, he says.
+
+
+It gave me full control of a world that I played in for many, many years.
+
+
+Now, he says, that world is coming to an end.
+
+
+Rubin is excited about the rise of machine learninghis new company, Playground Global, invests in machine-learning startups and is positioning itself to lead the spread of intelligent devicesbut it saddens him a little too.
+
+
+Because machine learning changes what it means to be an engineer.
+
+
+People dont linearly write the programs, Rubin says.
+
+
+After a neural network learns how to do speech recognition, a programmer cant go in and look at it and see how that happened.
+
+
+Its just like your brain.
+
+
+You cant cut your head off and see what youre thinking.
+
+
+When engineers do peer into a deep neural network, what they see is an ocean of math: a massive, multilayer set of calculus problems thatby constantly deriving the relationship between billions of data pointsgenerate guesses about the world.
+
+
+Artificial intelligence wasnt supposed to work this way.
+
+
+Until a few years ago, mainstream AI researchers assumed that to create intelligence, we just had to imbue a machine with the right logic.
+
+
+Write enough rules and eventually wed create a system sophisticated enough to understand the world.
+
+
+They largely ignored, even vilified, early proponents of machine learning, who argued in favor of plying machines with data until they reached their own conclusions.
+
+
+For years computers werent powerful enough to really prove the merits of either approach, so the argument became a philosophical one.
+
+
+Most of these debates were based on fixed beliefs about how the world had to be organized and how the brain worked, says Sebastian Thrun, the former Stanford AI professor who created Googles self-driving car.
+
+
+Neural nets had no symbols or rules, just numbers.
+
+
+That alienated a lot of people.
+
+
+The implications of an unparsable machine language arent just philosophical.
+
+
+For the past two decades, learning to code has been one of the surest routes to reliable employmenta fact not lost on all those parents enrolling their kids in after-school code academies.
+
+
+But a world run by neurally networked deep-learning machines requires a different workforce.
+
+
+Analysts have already started worrying about the impact of AI on the job market, as machines render old skills irrelevant.
+
+
+Programmers might soon get a taste of what that feels like themselves.
+
+
+I was just having a conversation about that this morning, says tech guru Tim OReilly when I ask him about this shift.
+
+
+I was pointing out how different programming jobs would be by the time all these STEM-educated kids grow up.
+
+
+Traditional coding wont disappear completelyindeed, OReilly predicts that well still need coders for a long time yetbut there will likely be less of it, and it will become a meta skill, a way of creating what Oren Etzioni, CEO of the Allen Institute for Artificial Intelligence, calls the scaffolding within which machine learning can operate.
+
+
+Just as Newtonian physics wasnt obviated by the discovery of quantum mechanics, code will remain a powerful, if incomplete, tool set to explore the world.
+
+
+But when it comes to powering specific functions, machine learning will do the bulk of the work for us.
+
+
+Of course, humans still have to train these systems.
+
+
+But for now, at least, thats a rarefied skill.
+
+
+The job requires both a high-level grasp of mathematics and an intuition for pedagogical give-and-take.
+
+
+Its almost like an art form to get the best out of these systems, says Demis Hassabis, who leads Googles DeepMind AI team.
+
+
+Theres only a few hundred people in the world that can do that really well.
+
+
+But even that tiny number has been enough to transform the tech industry in just a couple of years.
+
+
+WHATEVER THE PROFESSIONAL implications of this shift, the cultural consequences will be even bigger.
+
+
+If the rise of human-written software led to the cult of the engineer, and to the notion that human experience can ultimately be reduced to a series of comprehensible instructions, machine learning kicks the pendulum in the opposite direction.
+
+
+The code that runs the universe may defy human analysis.
+
+
+Right now Google, for example, is facing an antitrust investigation in Europe that accuses the company of exerting undue influence over its search results.
+
+
+Such a charge will be difficult to prove when even the companys own engineers cant say exactly how its search algorithms work in the first place.
+
+
+This explosion of indeterminacy has been a long time coming.
+
+
+Its not news that even simple algorithms can create unpredictable emergent behavioran insight that goes back to chaos theory and random number generators.
+
+
+Over the past few years, as networks have grown more intertwined and their functions more complex, code has come to seem more like an alien force, the ghosts in the machine ever more elusive and ungovernable.
+
+
+Planes grounded for no reason.
+
+
+Seemingly unpreventable flash crashes in the stock market.
+
+
+Rolling blackouts.
+
+
+These forces have led technologist Danny Hillis to declare the end of the age of Enlightenment, our centuries-long faith in logic, determinism, and control over nature.
+
+
+Hillis says were shifting to what he calls the age of Entanglement.
+
+
+As our technological and institutional creations have become more complex, our relationship to them has changed, he wrote in the Journal of Design and Science.
+
+
+Instead of being masters of our creations, we have learned to bargain with them, cajoling and guiding them in the general direction of our goals.
+
+
+We have built our own jungle, and it has a life of its own.
+
+
+The rise of machine learning is the latestand perhaps the laststep in this journey.
+
+
+This can all be pretty frightening.
+
+
+After all, coding was at least the kind of thing that a regular person could imagine picking up at a boot camp.
+
+
+Coders were at least human.
+
+
+Now the technological elite is even smaller, and their command over their creations has waned and become indirect.
+
+
+Already the companies that build this stuff find it behaving in ways that are hard to govern.
+
+
+Last summer, Google rushed to apologize when its photo recognition engine started tagging images of black people as gorillas.
+
+
+The companys blunt first fix was to keep the system from labeling anything as a gorilla.
+
+
+To nerds of a certain bent, this all suggests a coming era in which we forfeit authority over our machines.
+
+
+One can imagine such technology outsmarting financial markets, out-inventing human researchers, out-manipulating human leaders, and developing weapons we cannot even understand, wrote Stephen Hawkingsentiments echoed by Elon Musk and Bill Gates, among others.
+
+
+Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all.
+
+
+But dont be too scared; this isnt the dawn of Skynet.
+
+
+Were just learning the rules of engagement with a new technology.
+
+
+Already, engineers are working out ways to visualize whats going on under the hood of a deep-learning system.
+
+
+But even if we never fully understand how these new machines think, that doesnt mean well be powerless before them.
+
+
+In the future, we wont concern ourselves as much with the underlying sources of their behavior; well learn to focus on the behavior itself.
+
+
+The code will become less important than the data we use to train it.
+
+
+If all this seems a little familiar, thats because it looks a lot like good old 20th-century behaviorism.
+
+
+In fact, the process of training a machine-learning algorithm is often compared to the great behaviorist experiments of the early 1900s.
+
+
+Pavlov triggered his dogs salivation not through a deep understanding of hunger but simply by repeating a sequence of events over and over.
+
+
+He provided data, again and again, until the code rewrote itself.
+
+
+And say what you will about the behaviorists, they did know how to control their subjects.
+
+
+In the long run, Thrun says, machine learning will have a democratizing influence.
+
+
+In the same way that you dont need to know HTML to build a website these days, you eventually wont need a PhD to tap into the insane power of deep learning.
+
+
+Programming wont be the sole domain of trained coders who have learned a series of arcane languages.
+
+
+Itll be accessible to anyone who has ever taught a dog to roll over.
+
+
+For me, its the coolest thing ever in programming, Thrun says, because now anyone can program.
+
+
+For much of computing history, we have taken an inside-out view of how machines work.
+
+
+First we write the code, then the machine expresses it.
+
+
+This worldview implied plasticity, but it also suggested a kind of rules-based determinism, a sense that things are the product of their underlying instructions.
+
+
+Machine learning suggests the opposite, an outside-in view in which code doesnt just determine behavior, behavior also determines code.
+
+
+Machines are products of the world.
+
+
+Ultimately we will come to appreciate both the power of handwritten linear code and the power of machine-learning algorithms to adjust itthe give-and-take of design and emergence.
+
+
+Its possible that biologists have already started figuring this out.
+
+
+Gene-editing techniques like Crispr give them the kind of code-manipulating power that traditional software programmers have wielded.
+
+
+But discoveries in the field of epigenetics suggest that genetic material is not in fact an immutable set of instructions but rather a dynamic set of switches that adjusts depending on the environment and experiences of its host.
+
+
+Our code does not exist separate from the physical world; it is deeply influenced and transmogrified by it.
+
+
+Venter may believe cells are DNA-software-driven machines, but epigeneticist Steve Cole suggests a different formulation: A cell is a machine for turning experience into biology.
+
+
+And now, 80 years after Alan Turing first sketched his designs for a problem-solving machine, computers are becoming devices for turning experience into technology.
+
+
+For decades we have sought the secret code that could explain and, with some adjustments, optimize our experience of the world.
+
+
+But our machines wont work that way for much longerand our world never really did.
+
+
+Were about to have a more complicated but ultimately more rewarding relationship with technology.
+
+
+We will go from commanding our devices to parenting them.
+
+
+

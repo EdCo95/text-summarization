@@ -1,0 +1,137 @@
+Apples Secret AI Technology: Meet Vocal IQ the self learning technology that is a part of Siri2.
+
+
+Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plansApple 2015
+Below The Surface An Iceberg holds 95% Of Its Mass
+There is a narrative that Apple has not understood AI very well.
+
+
+I assert this is based upon not understanding a number of remarkable acquisitions.
+
+
+It started with Siri, Emotient and Perceptio, VocalIQ and perhaps a number of not yet disclosed AI acquisitions.
+
+
+Some of the technology is quite unique, for example Emotients technology [1] will read the movement of the 43 muscles in your face and decode emotional intent to aid machines to understand you better.
+
+
+This technology is rather critically important to machine learning and everything Apple will do with AI.
+
+
+Steves Last Apple Acquisition
+Steve Jobs felt very strongly about the Voice First world, perhaps more than he felt about the Mobile First and the PC Revolution.
+
+
+His vision of the future was so clear that he made the acquistion of Siri-his last, even when suffering from the illness that took his life.
+
+
+Steve called Dag Kittlaus directly on his iPhone and made a persuasive pitch to bring the vison of the Siri team to Apple.
+
+
+Within a few weeks the acquisition was made and Siri went on to make history as being the first widely distributed system of its kind in the world.
+
+
+It is not a secret that Siri has not kept up the pace that just about all of us expected, including some of the Siri team.
+
+
+The passion that Steve had seemed to have been waning deep inside of Apple and the results were Dag and Adam Cheyer moved on and formed Six Five Labs (A play on VI V in Roman numerals) and Viv.
+
+
+Tom Gruber, one of the original team members and the chief scientist that created Siri technology, stayed on and continued his work.
+
+
+During most of 2016 and 2017 we will begin to see the results of this work.
+
+
+I call it Siri2 and am very certain Apple will call it something else.
+
+
+Apple has always been a vital mix of internally created technology and acquired technology.
+
+
+From iTunes to TouchID Apple has been spectacular in identifying young and smart companies and integrating it into the very core of Apple.
+
+
+Late in 2015 Apple approached a small Cambridge, England Voice AI company called VocalIQ and made a pitch to Blaise Thomson that he could not refuse.
+
+
+As a University of Cambridge spin out, VocalIQ had already been around for about 2 years and I had become very familiar with thier amazing technology.
+
+
+VocalIQ built astounding technology that no doubt you and I will use every day, some day soon.
+
+
+From the VocalIQ website (2014):
+Vocal IQ introduced the worlds first self-learning dialogue APIputting real, natural conversation between people and their devices.
+
+
+Every time your application is used it gets a little bit smarter.
+
+
+Previous conversations are central to its learning processallowing the system to better understand future requests and in turn, react more intelligently.
+
+
+Fundamental to VocalIQ technology was:
+Noise Robustness- Advanced noise robustness systems ensure that all input is interpreted in the context of the dialog, dramatically improving performance.
+
+
+Rapid Prototyping- Robust, flexible design means that software developers and partners can prototype rapidly, receive feedback immediately and deploy instantly.
+
+
+Platform Architecture- The platform architecture is an extensible, cloud-hosted, hybrid system that can be supplemented with new data and knowledge engines.
+
+
+Learns through interaction- The technology harnesses a deep body of research that drives a system designed to learn through analysis of language, semantics and context.
+
+
+The Voice First Revolution Like Most Revolutions Will Start In A Garage
+If Apple utilizes just a small subset of the technology developed by VocalIQ, we will see a far more advanced Siri.
+
+
+However I am quite certain the amazing work of Tom Gruber will also be utilized.
+
+
+Additionally the amazing technology from Emollient, Perception and a number of unannounced and future Apple acquistions will also become a big part of Apples AI future.
+
+
+I wrote about how the Voice First, Voice Commerce and Voice Payments world will play out here [1], [2], [3], [4], [5].
+
+
+As I have asserted in my 1989 Voice Manifesto, there will not be advertising in Voice First devices, there will be Voice Commerce and Voice Payments.
+
+
+The push mechanisms of advertising give way to Intelligent Agents pulling ontologies.
+
+
+Apple has entered into a new era.
+
+
+Steve Jobs saw this in the twlight of his life and made sure the company had a firm foothold into the future.
+
+
+This future will be lead by Viv, Alexa, Google Home, Facebook M and 100s of companies that no one has yet heard of toiling in garages around the world quite like Apple did in 1975.
+
+
+I am absolutely certain that Apple will create far more robust experiences centerered around Voice First and supported by Voice Commerce.
+
+
+I have been experimenting in this area and though some really ugly code and maybe uglier hardware lead by Raspberry PIs, a liberated Apple TV + Remote and ironically Amazons AWS I have been able to get Siri to do some amazing things.
+
+
+The New Revolution Will Start In A Garage
+Apple and every other large company will be challenged by the amazing work from small companies that no one ever heard of.
+
+
+Some of them they may acquire and some of them may grow to be quite large and challenge everyone.
+
+
+But just like the personal computer revolution lead by Apple II and the Macintosh, the Voice First revolution will bring about changes in ways few can comprehend.
+
+
+Perhaps Apple knows this and below the surface is far more going on.
+
+
+Just because we can not yet see it, does not mean that it is not there
+
+
+

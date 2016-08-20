@@ -1,0 +1,476 @@
+Artificial intelligence, cognitive systems and biosocial spaces of education
+Recently, new ideas about artificial intelligence and cognitive computing systems in education have been advanced by major computing and educational businesses.
+
+
+How might these ideas and the technical developments and business ambitions behind them impact on educational institutions such as schools, and on the role of human actors such as teachers and learners, in the near future?
+
+
+More particularly, what understandings of the human teacher and the learner are assumed in the development of such systems, and with what potential effects?
+
+
+The focus here is on the education business Pearson, which published a report entitled Intelligence Unleashed: An argument for AI in education in February 2016, and the computing company IBM, which launched Personalized Education: from curriculum to career with cognitive systems in May 2016.
+
+
+Pearsons interest in AI reflects its growing profile as an organization using advanced forms of data analytics to measure educational institutions and practices  while IBMs report on cognitive systems makes a case for extending its existing R&D around cognitive computing into the education sector.
+
+
+AI has been the subject of serious concern recently, with warnings from high-profile figures including Stephen Hawking, Bill Gates and Elon Musk, while awareness about cognitive computing has been fuelled by widespread media coverage of Googles AlphaGo system, which beat one of the worlds leading Go players back in March.
+
+
+Commenting on these recent events, the philosopher Luciano Floridi has noted that contemporary AI and cognitive computing, however, cannot be characterized in monolithic terms as some kind of ultraintelligence; instead it is  manifesting itself in far more mundane ways through an infosphere of ordinary artefacts that outperform us in ever more tasks, despite being no cleverer than a toaster:
+
+The success of our technologies depends largely on the fact that, while we were speculating about the possibility of ultraintelligence, we increasingly enveloped the world in so many devices, sensors, applications and data that it became an IT-friendly environment, where technologies can replace us without having any understanding, mental states, intentions, interpretations, emotional states, semantic skills, consciousness, self-awareness or flexible intelligence.
+
+
+Memory (as in algorithms and immense datasets) outperforms intelligence when landing an aircraft, finding the fastest route from home to the office, or discovering the best price for your next fridge.
+
+
+Digital technologies can do more and more things better than us, by processing increasing amounts of data and improving their performance by analysing their own output as input for the next operations.
+
+
+Contemporary algorithmic forms of AI that learn from the vast memory-banks of big data do not constitute either an apocalyptic or benevolent future of AI or cognitive systems, but, for Floridi, reflect human ambitions and problems.
+
+
+So why are companies like Pearson and IBM advancing claims for their benefits in education, and to address which ambitions and problems?
+
+
+Extending from my recent work on both Pearsons digital methods and IBMs cognitive systems R&D programs (all part of an effort to map out the emerging field of educational data science), I suggest these developments can be understood in terms of growing recognition of the connections between computer technologies, social environments, and embodied human experience.
+
+
+Pearson intelligence
+Pearson has been promoting itself as a new source of expertise in educational big data analysis since establishing its Center for Digital Data, Analytics and Adaptive Learning in 2012.
+
+
+Its ambitions in the direction of educational data analytics are to make sense of the masses of data becoming available as educational activities increasingly occur via digital media, and to use these data and patterns extracted from them to derive new theories of learning processes, cognitive development, and non-academic social and emotional learning.
+
+
+It has also begun publishing reports under its Open Ideas theme, which aim to make its research available publicly.
+
+
+It is under the Open Ideas banner that Pearson has published Intelligence Unleashed (authored by Rose Luckin and Wayne Holmes of the London Knowledge Lab at the University College London).
+
+
+Pearsons report proposes that artificial intelligence can transform teaching and learning.
+
+
+Its authors state that:
+
+Although some might find the concept of AIEd alienating, the algorithms and models that comprise AIEd form the basis of an essentially human endeavour.
+
+
+AIEd offers the possibility of learning that is more personalised, flexible, inclusive, and engaging.
+
+
+It can provide teachers and learners with the tools that allow us to respond not only to what is being learnt, but also to how it is being learnt, and how the student feels.
+
+
+Rather than seeking to construct a monolithic AI system, Pearson is proposing that a marketplace of thousands of AI components will eventually combine to enable system-level data collation and analysis that help us learn much more about learning itself and how to improve it.
+
+
+Underpinnings its vision of AIEd is a particular concern with the most significant social challenge that AI has already brought  the steady replacement of jobs and occupations with clever algorithms and robots:
+
+It is our view that this phenomena provides a new innovation imperative in education, which can be expressed simply: as humans live and work alongside increasingly smart machines, our education systems will need to achieve at levels that none have managed to date.
+
+
+In other words, in the Pearson view, a marketplace of AI applications will both be able to provide detailed real-time data analytics on education and learning, and also lead to far greater levels of achievement by both individuals and whole education systems.
+
+
+Its vision is of augmented educational systems, spaces and practices where humans and machines work symbiotically.
+
+
+In technical terms, what Pearson terms AIEd relies on a particular form of AI.
+
+
+This is not the AI with sentience of sci-fi imaginings, but AI reimagined through the lens of big data and data analytics techniquesthe ordinary artefacts of machine learning systems.
+
+
+Notably, the report refers to advances in machine learning algorithms, computer modelling, statistics, artificial neural networks and neuroscience, since AI involves computer software that has been programmed to interact with the world in ways normally requiring human intelligence.
+
+
+This means that AI depends both on knowledge about the world, and algorithms to intelligently process that knowledge.
+
+
+In order to do so, and importantly, Pearsons brand of AIEd requires the development of sophisticated computational models.
+
+
+These include models of the learner, models of effective pedagogy, and models of the knowledge domain to be learned, as well as models that represent the social, emotional, and meta-cognitive aspects of learning:
+
+Learner models are ways of representing the interactions that happen between the computer and the learner.
+
+
+The interactions represented in the model (such as the students current activities, previous achievements, emotional state, and whether or not they followed feedback) can then be used by the domain and pedagogy components of an AIEd programme to infer the success of the learner (and teacher).
+
+
+The domain and pedagogy models also use this information to determine the next most appropriate interaction (learning materials or learning activities).
+
+
+Importantly, the learners activities are continually fed back into the learner model, making the model richer and more complete, and the system smarter.
+
+
+Based on the combination of these models with data analytics and machine learning processes, Pearsons proposed vision of AIEd includes the development of Intelligent Tutoring Systems (ITS) which use AI techniques to simulate one-to-one human tutoring, delivering learning activities best matched to a learners cognitive needs and providing targeted and timely feedback, all without an individual teacher having to be present.
+
+
+It also promises intelligent support for collaborative workingsuch as AI agents that can integrate into teamworkand intelligent virtual reality environments that simulate authentic contexts for learning tasks.
+
+
+Its vision is of teachers supported by their own AIEd teaching assistants and AIEd-led professional development.
+
+
+These techniques and applications are seen as contributors to a whole-scale reform of education systems:
+
+Once we put the tools of AIEd in place as described above, we will have new and powerful ways to measure system level achievement.
+
+
+AIEd will be able to provide analysis about teaching and learning at every level, whether that is a particular subject, class, college, district, or country.
+
+
+This will mean that evidence about country performance will be available from AIEd analysis, calling into question the need for international testing.
+
+
+In other words, Pearson is proposing to bypass the cumbersome bureaucracy of mass standardized testing and assessment, and instead focus on real-time intelligent analytics conducted up-close within the pedagogic routines of the AI-enhanced classroom.
+
+
+This will rely on a detailed and intimate analytics of individual performance, which will be gained from detailed modelling of learners through their data.
+
+
+Pearsons vision of intelligent, personalized learning environments is therefore based on its new understandings of how to blend human and machine intelligence effectively.
+
+
+Specific kinds of understandings of human intelligence and cognition are assumed here.
+
+
+As Pearsons AIEd report acknowledges,
+
+AIEd will continue to leverage new insights in disciplines such as psychology and educational neuroscience to better understand the learning process, and so build more accurate models that are better able to predict  and influence  a learners progress, motivation, and perseverance.
+
+
+Increased collaboration between education neuroscience and AIEd developers will provide technologies that can offer better information, and support specific learning difficulties that might be standing in the way of a childs progress.
+
+
+These points highlight how the design of AIEd systems will embody neuroscientific insights into learning processesinsights that will then be translated into models that can be used to predict and intervene in individuals learning processes.
+
+
+This reflects the recent and growing interest in neuroscience in education, and the adoption of neuroscientific insights for brain-targeted teaching and learning.
+
+
+Such practices target the brain for educational intervention based on neuroscientific knowledge.
+
+
+IBM has taken inspiration from neuroscience even further in its cognitive computing systems for education.
+
+
+IBM cognition
+One of the worlds most successful computing companies, IBM has recently turned its attention to educational data analytics.
+
+
+According to its paper on the future of learning:
+
+Analytics translates volumes of data into insights for policy makers, administrators and educators alike so they can identify which academic practices and programs work best and where investments should be directed.
+
+
+By turning masses of data into useful intelligence, educational institutions can create smarter schools for now and for the future.
+
+
+An emerging development in IBMs data analytic approach to education is cognitive learning systems based on neuroscientific methodological innovations, technical developments in brain-inspired computing, and artificial neural networks algorithms.
+
+
+Over the last decade, IBM has positioned itself as a dominant research centre in cognitive computing, with huge teams of engineers and computer scientists working on both basic and applied research in this area.
+
+
+Its own Brain Lab has provided the neuroscientific insight for these developments, leading to R&D in a variety of areas.
+
+
+Its work has proceeded through neuroscience and neuroanatomy to supercomputing, to a new computer architecture, to a new programming language, to artificial neural network algorithms, and finally cognitive system applications, all underpinned by its understanding of the human brains synaptic structures and functions.
+
+
+IBM itself is not seeking to build an artificial brain but a computer inspired by the brain and certain neural structures and functions.
+
+
+It claims that cognitive computing aims to emulate the human brains abilities for perception, action and cognition, and has dedicated extensive R&D to the production of neurosynaptic brain chips and scalable neuromorphic systems, as well as its cognitive supercomputing system Watson.
+
+
+Based on this program of work, IBM defines cognitive systems as a category of technologies that uses natural language processing and machine learning to enable people and machines to interact more naturally to extend and magnify human expertise and cognition.
+
+
+To apply its cognitive computing applications in education, IBM has developed a specific Cognitive Computing for Education program.
+
+
+Its program director has presented its intelligent, interactive systems that combine neuroscientific insights into cognitive learning processes with neurotechnologies that can:
+
+learn and interact with humans in more natural ways.
+
+
+At the same time, advances in neuroscience, driven in part by progress in using supercomputers to model aspects of the brain  promise to bring us closer to a deeper understanding of some cognitive processes such as learning.
+
+
+At the intersection of cognitive neuroscience and cognitive computing lies an extraordinary opportunity  to refine cognitive theories of learning as well as derive new principles that should guide how learning content should be structured when using cognitive computing based technologies.
+
+
+The prototype innovations developed by the program include automated cognitive learning content, cognitive tutors and cognitive assistants for learning that can understand the learners needs and provide constant, patient, endless support and tuition personalized for the user.
+
+
+IBM has also developed an application called Codename: Watson Teacher Advisor, that is designed to observe, interpret and evaluate information to make informed decisions that should provide guidance and mentorship to help teachers improve their teaching.
+
+
+IBMs latest report on cognitive systems in education proposes that deeply immersive interactive experiences with intelligent tutoring systems can transform how we learn, ultimately leading to the utopia of personalized learning:
+
+Until recently, computing was programmable  based around human defined inputs, instructions (code) and outputs.
+
+
+Cognitive systems are in a wholly different paradigm of systems that understand, reason and learn.
+
+
+In short, systems that think.
+
+
+What could this mean for the educators?
+
+
+We see cognitive systems as being able to extend the capabilities of educators by providing deep domain insights and expert assistance through the provision of information in a timely, natural and usable way.
+
+
+These systems will play the role of an assistant, which is complementary to and not a substitute for the art and craft of teaching.
+
+
+At the heart of cognitive systems are advanced analytic capabilities.
+
+
+In particular, cognitive systems aim to answer the questions: What will happen?
+
+
+and What should I do?
+
+
+Rather than being hard-programmed, cognitive computing systems are designed like the brain to learn from experience and adapt to environmental stimuli.
+
+
+Thus, instead of seeking to displace the teacher, IBM sees cognitive systems as optimizing and enhancing the role of the teacher, as a kind of cognitive prosthetic or machinic extension of human qualities.
+
+
+This is part of a historical narrative about human-computer hybridity that IBM has wrapped around its cognitive computing R&D:
+
+Across industries and professions we believe there will be an increasing marriage of man and machine that will be complementary in nature.
+
+
+This man-plus-machine process started with the first industrial revolution, and today were merely at a different point on that continuum.
+
+
+At IBM, we subscribe to the view that man plus machine is greater than either on their own.
+
+
+As such, for IBM,
+
+We believe technology will help educators to improve student outcomes, but must be applied in context and under the auspices of a caring human.
+
+
+The teacher-to-system relationship does not, in our view, lead to a dystopian future in which the teacher plays second fiddle to an algorithm.
+
+
+The promise of cognitive computing for IBM is not just of more natural systems with human qualities, but a fundamental reimagining of the next generation of human cognition, in which we think and reason in new and powerful ways, as claimed its white paper Computing, cognition and the future of knowing:
+
+Its true that cognitive systems are machines that are inspired by the human brain.
+
+
+But its also true that these machines will inspire the human brain, increase our capacity for reason and rewire the ways in which we learn.
+
+
+A recursive relationship between machine cognition and human cognition is assumed in this statement.
+
+
+It sees cognitive systems as both brain-inspired and brain-inspiring, both modelled on the brain and remoulding the brain through interacting with users.
+
+
+The caring human teacher mentioned in its report above is one whose capacities are not displaced by algorithms, but are algorithmically augmented and extended.
+
+
+Similarly, the student enrolled into a cognitive learning system is also part of a hybrid system.
+
+
+Perhaps the clearest illustration from IBM of how cognitive systems will penetrate into education systems is its vision of a cognitive classroom.
+
+
+This is a classroom that will learn you through constant and symbiotic interaction between cognizing human subjects and nonhuman cognitive systems designed according to a model of the human brain.
+
+
+Biosocial spaces
+Some of the claims in these reports from Pearson and IBM may sound far-fetched and hyperbolic.
+
+
+Its worth noting, however, that most of the technical developments underpinning them are already part of cutting-edge R&D in both the computing and neuroscience sectors.
+
+
+Two recent foresight reports produced by the Human Brain Project document many of these developments and their implications.
+
+
+One, Future Neuroscience, details attempts to map the human brain, and ultimately understand it, through big science techniques of data analysis and brain simulation.
+
+
+The other, Future Computing and Robotics, focuses on the implications of machine intelligence, human-machine integration, and other neurocomputational technologies that use the brain as inspiration; it states:
+
+The power of these innovations has been increased by the development of data mining and machine learning techniques, that give computers the capacity to learn from their experience without being specifically programmed, constructing algorithms, making predictions, and then improving those predictions by learning from their results, either in supervised or unsupervised regimes.
+
+
+In these and other ways, developments in ICT and robotics are reshaping human interactions, in economic activities, in consumption and in our most intimate relations.
+
+
+These reports are the product of interdisciplinary research between sociologists and neuroscientists, and are part of a growing social scientific interest in biosocial dynamics between biology and social environments.
+
+
+Biosocial studies emphasize how social environments are now understood to get under the skin and to actually influence the biological functions of the body.
+
+
+In a recent introduction to special issue on biosocial matters, it was claimed that a key insight coming out of social scientific attention to biology is the increasing understanding that the brain is a multiply connected device profoundly shaped by social influences, and that the body bears the inscriptions of its socially and materially situated milieu.
+
+
+Concepts such as neuroplasticity and epigenetics are key here.
+
+
+Simply put, neuroplasticity recognizes that the brain is constantly adapting to external stimuli and social environments, while epigenetics acknowledges that social experience modulates the body at the genetic level.
+
+
+According to such work, the body and the brain are influenced by the structures and environments that constitute society, but are also the source for the creation of new kinds of structures and environments which will in turn (and recursively) shape life in the future.
+
+
+As environments become increasingly inhabited by machine intelligencealbeit the machine intelligence of ordinary artefacts rather than superintelligencesthen computer technologies need to be considered as part of the biosocial mix.
+
+
+Indeed, IBMs R&D in cognitive computing fundamentally depends on its own neuroscientific findings about neuroplasticity, and the translation of biological neural networks used in computational neuroscience into the artificial neural networks used in cognitive computing and AI research.
+
+
+Media theorist N Katherine Hayles has mobilized a form of biosocial inquiry in her recent work on nonconscious cognitive systems which increasingly permeate information and communication networks and devices.
+
+
+For her, cognition in some instances may be located in technical systems rather than in the mental world of an individual participant, an important change from a model of cognition centered in the self.
+
+
+Her non-anthropocentric view of cognition everywhere suggests that cognitive computing devices can employ learning processes that are modelled like those of embodied biological organisms, using their experiences to learn, achieve skills and interact with people.
+
+
+Therefore, when nonconscious cognitive devices penetrate into human systems, they can then potentially modify the dynamics of human behaviours through changing brain morphology and functioning.
+
+
+The potential of nonhuman neurocomputational techniques based on the brain, then, is to become legible as traces in the neurological circuitry of the human brain itself, and to impress itself on the cerebral lives of both individuals and wider populations.
+
+
+Biosocial explanations are beginning to be applied to education and learning.
+
+
+Jessica Pykett and Tom Disney have shown, for example, that:
+
+an emphasis on the biosocial determinants of childrens learning, educational outcomes and life chances resonates with broader calls to develop hybrid accounts of social life which give adequate attention to the biological, the nonhuman, the technological, the material,  the neural and the epigenetic aspects of life itself.
+
+
+In addition, Deborah Youdells new work on biosocial education proposes that such conceptualizations might change our existing understandings of processes such as learning:
+
+Learning is an interaction between a person and a thing; it is embedded in ways of being and understanding that are shared across communities; it is influenced by the social and cultural and economic conditions of lives; it involves changes to how genes are expressed in brain cells because it changes the histones that store DNA; it means that certain parts of the brain are provoked into electrochemical activity; and it relies on a person being recognised by others, and recognising themselves, as someone who learns.
+
+
+These might be interacting with each other  shared meanings, gene expression, electrochemical signals, the everyday of the classroom, and a sense of self are actually all part of one phenomenon that is learning.
+
+
+We can begin to understand what Pearson and IBM are proposing in the light of these emerging biosocial explanations and their application to emerging forms of neurocomputation.
+
+
+To some extent, Pearson and IBM are mobilizing biosocial explanations in the development of their own techniques and applications.
+
+
+Models of neural plasticity and epigenetics emerging from neuroscience have inspired the development of  cognitive computing systems, which are then used to activate environments such as Pearsons AIEd intelligent learning environments or IBMs cognitive classroom.
+
+
+These are reconfigured as neurocomputationally brainy spaces in which learners are targeted for cognitive enhancement and neuro-optimization through interacting with other nonconscious cognitive agents and intelligent environments.
+
+
+In brief, the biosocial process assumed by Pearson and IBM proceeds something like this:
+
+> Neurotechnologies of brain imaging and simulation lead to new models and understandings of brain functioning and learning processes
+> Models of brain functions are encoded in neural network algorithms and other cognitive and neurocomputational techniques
+> Neurocomputational techniques are built-in to AIEd and cognitive systems applications for education
+> AIEd and cognitive systems are embedded into the social environment of education institutions as brain-targeted learning applications
+> Educational environments are transformed into neuro-inspired, computer-augmented brainy spaces
+> The brainy space of the educational environment interacts with human actors, getting under the skin by becoming encoded in the embodied human learning brain
+> Human brain functions are augmented, extended and optimized by machine intelligences
+
+In this way, brain-based machine intelligences are proposed to meet the human brain, and, based on principles of neuroplasticity and epigenetics, to influence brain morphology and cognitive functioning.
+
+
+The artificially intelligent, cognitive educational environment is, in other words, translated into a hybrid, algorithmically-activated biosocial space in the visions of Pearson and IBM.
+
+
+Elsewhere, Ive articulated the idea of brain/code/spacebased on geographical work on technologically-mediated environmentsto  describe environments that possess brain-like functions of learning and cognition performed by algorithmic processes.
+
+
+Pearson and IBM are proposing to turn educational environments into brain/code/spaces that are both brain-based and brain-targeted.
+
+
+While we need to be cautious of the extent to which these developments might (or might not) actually occur (or be desirable), it is important to analyse them as part of a growing interest in how technologically-enhanced social environments based on the brain might interweave with the neurobiological mechanisms that underlie processes of learning and development.
+
+
+In other words, Pearsons interest in AIEd and IBMs application of cognitive systems to education need to be interpreted as biosocial matters of significant contemporary concern.
+
+
+Of course, as Neil Selwyn cautions, technological changes in education cannot be inevitable or wholly beneficial.
+
+
+There are commercial and economic drivers behind them that do not necessarily translate smoothly into education, and most technical fixes fail to have the impact intended by their designers and sponsors.
+
+
+A fuller analysis of Pearsons aims for AIEd or IBMs ambitions for cognitive systems in education would therefore need to acknowledge the business plans that animate them, and critically consider the visions of the future of education they are seeking to catalyse.
+
+
+More pressingly, it would need to develop detailed insights into the ways that the brain is being mapped, known, understood, modelled and simulated in institutional contexts such as IBM, or how neuroscientific insights and models are being embodied in the kinds of AI applications that Pearson is promoting.
+
+
+How IBM and Pearson conceive the brain is deeply consequential to the AI and cognitive systems they are developing, and to how those systems then might interact with human actors and possibly influence the cognition of those people by shaping the neural architectures of their brains.
+
+
+Are these models adequate approximations of human mental and cognitive functioning?
+
+
+Or do they treat the brain and cognition in reductive terms as a kind of computational system that can be debugged,  rewired and algorithmically optimized, in ways which reproduce the long-standing tendency by technologists and scientists to represent mental life as an information-processing computer?
+
+
+Just a few years after the dawn of computer technology in the 1940s, the brain was said to operate like a computer, with the role of physical hardware played by the brain itself and our thoughts serving as software.
+
+
+Propelled by subsequent advances in both computer technology and brain research, an ambitious multidisciplinary effort to understand human intelligence gradually developed, firmly rooted in the idea that humans are, like computers, information processors.
+
+
+This effort now involves thousands of researchers, consumes billions of dollars in funding, and has generated a vast literature consisting of both technical and mainstream articles and books  speculating about the algorithms of the brain, how the brain processes data, and even how it superficially resembles integrated circuits in its structure.
+
+
+The information processing metaphor of human intelligence now dominates human thinking, both on the street and in the sciences.
+
+
+To what extent, for example, are biological neural networks conflated with (or reduced to) artificial neural networks as findings and insights from computational neuroscience are translated into applied AI and cognitive systems R&D programs?
+
+
+A kind of biosocial enthusiasm about the plasticity of the brain and epigenetic modulation is animating the technological ambitions of Pearson and IBM, one that may be led more by computational understandings of the brain as an adaptive information-processing device than a culturally and socially situated organ.
+
+
+Future research in this direction would need to interrogate the specific forms of neuro knowledge production they draw upon, as well as engage with social scientific insights into how environments really work to shape human embodied experience (and vice versa).
+
+
+The translation of educational environments into biosocial spaces that are technologically enhanced by new forms of AI, cognitive systems and other neurocomputational applications could have significant effects on teachers and learners right down to biological and neurological levels of life itself.
+
+
+As Luciano Floridi has noted, these are not forms of ultraintelligence but ordinary artefacts that can outperform us, and that are designed for specific purposesbut could always be made otherwise, for better purposes:
+
+We should make AI human-friendly.
+
+
+It should be used to treat people always as ends, never as mere means.
+
+
+We should make AIs stupidity work for human intelligence.
+
+
+And finally, we should make AI make us more human.
+
+
+The serious risk is that we might misuse our smart technologies, to the detriment of most of humanity.
+
+
+The glossy imaginaries of AIEd and cognitive systems in education projected by Pearson and IBM reveal a complex intersection of technological and scientific developmentscombined with business ambitions and future visionsthat require detailed examination as biosocial matters of concern for the future of education.
+
+
+

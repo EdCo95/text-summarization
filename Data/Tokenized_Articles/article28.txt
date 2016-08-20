@@ -1,0 +1,114 @@
+White Houses final artificial intelligence workshop highlights need for humans to hold the reins on AI
+
+BOT or NOT?
+
+
+This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.
+
+
+The White House wound up a nationwide series of workshops on artificial intelligence today on a cautionary note: Yes, AI promises to ease many of humanitys ills, but humanity needs to make sure that flesh-and-blood policymakers are firmly in charge.
+
+
+Latanya Sweeney, director of the Data Privacy Lab at Harvards Institute of Quantitative Social Science, said AI programs should be made to reflect the norms agreed upon by human society.
+
+
+I want the people we elect controlling those norms, not the technology itself.
+
+
+The algorithms have to be able to be transparent, tested, and have some kind of warranty or be available for inspection, she said during todays public workshop, which was conducted at New York University.
+
+
+Those norms should include supporting social equity and diversity, said Alicia Glen, New York Citys deputy mayor for housing and urban development.
+
+
+At its best, artificial intelligence can be a tool to promote equity, and it obviously can create huge economic opportunity for a lot of people, she said.
+
+
+But it can also have discriminatory effects, whether theyre intended or unintended.
+
+
+Were certainly not going to turn a blind eye to this.
+
+
+Todays AI Now workshop in New York City focused on the near-term social and economic implications of artificial intelligence.
+
+
+The event followed earlier gatherings in Seattle, in Washington, D.C., and in Pittsburgh  all co-hosted by the White Houses Office of Science and Technology Policy.
+
+
+White House deputy chief technology officer Ed Felten said New York Citys municipal government was doing a good job of using data analytics to facilitate business and improve public safety.
+
+
+This idea, that transformative technologies can benefit citizens, is what drove the administration to launch our Future of AI policy initiative this year, Felten said.
+
+
+Workshop panelists cited AI initiatives that could lead to safer autonomous vehicles and better health care.
+
+
+Google DeepMind, for example, is working with Londons Moorfields Eye Hospital on an initiative that involves analyzing a million digitized eye scans.
+
+
+The project is aimed at teaching an AI program to recognize the early signs of eye diseases such as macular degeneration and diabetic retinopathy.
+
+
+But the panelists also cited counter-examples in which AI tools reflect, or even amplify, human biases.
+
+
+Sweeney, for example, referred to a study she conducted into a Google AdSense program that offered to look up arrest records if the name being searched sounded black.
+
+
+(For example, if the user searched a name like Latanya or Trevon.)
+
+
+Sweeney said she talked with representatives from Google about changing the search algorithm to address the problem.
+
+
+They chose not to do so, she said.
+
+
+Other studies have suggested that a software program widely used in determining criminal sentences meted out harsher risk assessments for blacks than for whites, and that online searches tend to show more ads for high-paying jobs to men as opposed to women.
+
+
+Many people also feel a loss of control as businesses become more sophisticated about collecting personal data.
+
+
+In the physical world, products are often subjected to safety testing and Consumer Reports reviews, Sweeney noted.
+
+
+Maybe we need something like that for some AIs, she said.
+
+
+Some of the fields often cited as prime opportunities for AI and robotics might best be left to the humans, said Lucy Suchman, who studies human-machine interactions at Lancaster University.
+
+
+For example, when it comes to care of the elderly, she recommended coming up with more creative ways to structure living arrangements, or valuing the services of caregivers more highly on the pay scale.
+
+
+What grounds are there to believe that a robot could engage in the work of care?
+
+
+Suchman asked.
+
+
+Google DeepMinds co-founder, Mustafa Suleyman, said that his companys work in Britain was subject to review by an independent panel as well as data privacy regulations that are stricter than U.S. laws.
+
+
+He noted that DeepMind also set up a patient engagement forum and a clinical engagement forum to provide guidance on AI projects in health care.
+
+
+In the United States, you just get the data.
+
+
+So you could probably jump-start much faster if you came to the United States, Sweeney told Suleyman, with just a hint of sarcasm.
+
+
+Although todays event marks the end of the workshop series, the White House is far from finishing up its AI initiative.
+
+
+Felten said public comments on the subject are being taken through July 22.
+
+
+Later this year, the White House will publish a report about the policy implications of artificial intelligence, and draw up a strategic plan for AI research and development.
+
+
+

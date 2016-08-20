@@ -1,0 +1,85 @@
+Augmented Cognition: not science fiction, just smarts on our phones
+Tom Davenport and Juia Kirby write about near-future workers using personal AI to do their jobs better:
+Thomas H. Davenport and Julia Kirby, Bring Your Own Robot
+Your colleague is just as stressed-out as you are at the rising imperative to do more with less and the shrinking prospects of jobs, promotions, and raises.
+
+
+He is also equally frustrated by the amount of time he is spending on routine, codifiable parts of the job he mastered long ago.
+
+
+But being slightly more tech-savvy than you, he also spots a solution.
+
+
+By opening his own wallet and making a software purchasetaking advantage of the ever-plummeting cost of processing powerhe shows up to work one day with an AI assistant in tow.
+
+
+Just as he made it to work faster than you because he used Waze to navigate through traffic, at work hes able to make better investments, call on better customers, or make more accurate production forecasts than you.
+
+
+The idea of bring your own robot is not as farfetched as it may seem.
+
+
+There are already automated tools that support a wide variety of specific tasks.
+
+
+And robots are getting easier to interact with.
+
+
+The new thing in manufacturing is collaborative robots, which are much easier (and less dangerous) to train and work alongside.
+
+
+MIT professor Cynthia Breazeal has been working on social robots in the lab for a couple of decades, and is now an executive in a startup, Jibo, that will soon introduce a social robot for the home.
+
+
+One for the office cant be far behind.
+
+
+When it arrives, your colleague may become twice as productive and effective as you, and motivated enough to spend his found time cooking up innovations and other clever ways to serve the companys customers better.
+
+
+Hes a superstar.
+
+
+Can you follow suit fast enough by bringing in your own robot helper?
+
+
+Maybebut its doubtful that everyone in your department can.
+
+
+Will there even still be enough work to go around?
+
+
+If not, the most technically astute are the most likely to keep their jobs.
+
+
+Their set-up is a bit stagey, and positioned as a discrete purchase of a standalone big-ticket robotic device.
+
+
+The reality will be a lot more insidious, with the slow aggregation of a hundred tools, apps, and bots that we will be usingalready using?to get our work done.
+
+
+For example, Im already using an AI-based virtual assistantx.aito manage my calendar and schedule meetings.
+
+
+Its no big stretch to imagine AIs specialized in travel arrangements, financial analysis of spreadsheets, and even the more creative aspects of my work, like taking an outline and a bunch of incomplete scribbles and creating the first (and final?)
+
+
+draft of a report, or a presentation.
+
+
+Well all be acquiring these smart supports one app at a time.
+
+
+(But the authors make it seem more like the Verizon programmer who outsourced his job to some coder in Asia, and was getting great reviews on his work until he was found out (see Outsourcing your own job).
+
+
+If he was a freelancer he might never have been discovered, and ohisnt that what companies do all the time?
+
+
+But thats a different question for a different time.)
+
+
+So Davenport and Kirby treat this inexorable arrival of augmented cognition as if there will be a giant step involved, but instead it will be a hundred baby steps: one app at a time.
+
+
+

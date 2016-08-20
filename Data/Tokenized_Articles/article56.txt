@@ -1,0 +1,122 @@
+This Is the Biggest Battle in Tech Right Now
+
+Technology's biggest companies are duking it out to deliver the computing platform of the future
+
+A major battle is brewing between four behemoths of the technology industry.
+
+
+You may not be aware of the fight, but the winner will have a major impact on your future.
+
+
+Apple kicked off this battle off when it introduced its voice assistant, Siri.
+
+
+IPhone users can use Siri to get information through a voice- and hands-free process.
+
+
+The underlining technology behind Siri is based on artificial intelligence algorithms, Natural Language Interfaces (NLI) and a form of machine learning.
+
+
+If you have used Siri for some time, you know that the more you use it the smarter it gets as it learns more about you and your requests.
+
+
+Of course, Google could not let Apple have all the fun by itself.
+
+
+Not long after Siri debuted, Google introduced Google Now, its AI-based voice assistant for Android.
+
+
+Microsoft joined the fray with its AI voice assistant, called Cortana.
+
+
+And most recently Amazon unveiled a device called the Echo to deliver its AI based voice technology, Alexa.
+
+
+(Users of the Echo, a small cylindrical device, can ask it questions and use it to control appliances, buy products on Amazon and play music.)
+
+
+While AI-based voice assistants have been around for many years and are used in all types of customer service applications, these newer programs are better thanks to machine learning, new AI techniques and faster processors.
+
+
+In many cases, the latest voice assistants can understand a question in the proper context it is being asked, a huge boon.
+
+
+In fact, the real big breakthrough is not in their voice recognition capabilities, but their ability to understand things in context and respond in a conversational manner.
+
+
+The advances mean AI-based voice interfaces are set to become one of the most important new ways we will interact with technology in the future.
+
+
+The goal for all four of these companies, who are spending hundreds of millions of dollars in research, development and acquisitions, is to make these assistants speak and respond in a more conversational manner and with greater accuracy around content and context.
+
+
+The stakes are sky-high.
+
+
+The company that delivers the best AI voice assistant that works in a more intelligent, conversational and contextual way can use it to capture more customers for their other products and services (Amazons Echo is a great example of this phenomenon).
+
+
+That is why they are burning through cash to create personal companions that help users navigate the connected world in a truly hands-free manner and get the action or info they need when they need it.
+
+
+There are two other major AI based voice companies making waves these days.
+
+
+Both are quite important in that their technology could be used by any third-party software, giving developers the ability to use voice as a key part of their user interface.
+
+
+The first company is called Viv.
+
+
+Its AI voice product was developed by the folks behind Siri.
+
+
+It recently debuted at TechChunchs Disrupt conference and it can be added to any application to give it AI based voice functionality.
+
+
+The other firm, U.K.-based Artificial Solutions, has an industrial strength version of this technology.
+
+
+While not well known in the US, Artificial Solutions is already a real powerhouse in this area.
+
+
+It provides major voice-based AI solutions to firms like AT&T, Shell Oil, Ikea, Credit Suisse and dozens of top companies.
+
+
+Its AI-based voice solution is called TENEO, and already delivers some of the best conversational-level voice interactions with a computer available.
+
+
+Teneo can understand multiple pieces of information given in a single sentence.
+
+
+It can remember facts and learn about users preferences and ask questions of its own as a natural part of a conversation.
+
+
+It can even prompt users for additional information required to carry out a task.
+
+
+Like Viv, it can be integrated into third-party systems.
+
+
+It even follows users around as they switch devices and remembers past conversations.
+
+
+One of its more impressive features is that it predicts a users needs based on contextual information.
+
+
+AI-based voice technology that is conversational, accurate and highly useful is poised to be a game changer when it comes to man-machine interfaces.
+
+
+Each company involved in this battle knows the end game is to make these new interfaces so indispensable that people will join their ecosystems and never leave.
+
+
+While this fight is not winner-take-all, it is one that will give the company or app with the best versions of these voice assistants a real edge over competitors.
+
+
+Tim Bajarin is recognized as one of the leading industry consultants, analysts and futurists, covering the field of personal computers and consumer technology.
+
+
+Mr. Bajarin is the President of Creative Strategies, Inc and has been with the company since 1981 where he has served as a consultant providing analysis to most of the leading hardware and software vendors in the industry.
+
+
+

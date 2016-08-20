@@ -1,0 +1,358 @@
+Movie written by algorithm turns out to be hilarious and intense
+For Sunspring's exclusive debut on Ars, we talked to the filmmakers about collaborating with an AI.
+
+
+Ars is excited to be hosting this online debut of Sunspring, a short science fiction film that's not entirely what it seems.
+
+
+It's about three people living in a weird future, possibly on a space station, probably in a love triangle.
+
+
+You know it's the future because H (played with neurotic gravity by Silicon Valley's Thomas Middleditch) is wearing a shiny gold jacket, H2 (Elisabeth Gray) is playing with computers, and C (Humphrey Ker) announces that he has to "go to the skull" before sticking his face into a bunch of green lights.
+
+
+It sounds like your typical sci-fi B-movie, complete with an incoherent plot.
+
+
+Except Sunspring isn't the product of Hollywood hacksit was written entirely by an AI.
+
+
+To be specific, it was authored by a recurrent neural network called long short-term memory, or LSTM for short.
+
+
+At least, that's what we'd call it.
+
+
+The AI named itself Benjamin.
+
+
+Knowing that an AI wrote Sunspring makes the movie more fun to watch, especially once you know how the cast and crew put it together.
+
+
+Director Oscar Sharp made the movie for Sci-Fi London, an annual film festival that includes the 48-Hour Film Challenge, where contestants are given a set of prompts (mostly props and lines) that have to appear in a movie they make over the next two days.
+
+
+Sharp's longtime collaborator, Ross Goodwin, is an AI researcher at New York University, and he supplied the movie's AI writer, initially called Jetson.
+
+
+As the cast gathered around a tiny printer, Benjamin spat out the screenplay, complete with almost impossible stage directions like "He is standing in the stars and sitting on the floor."
+
+
+Then Sharp randomly assigned roles to the actors in the room.
+
+
+"As soon as we had a read-through, everyone around the table was laughing their heads off with delight," Sharp told Ars.
+
+
+The actors interpreted the lines as they read, adding tone and body language, and the results are what you see in the movie.
+
+
+Somehow, a slightly garbled series of sentences became a tale of romance and murder, set in a dark future world.
+
+
+It even has its own musical interlude (performed by Andrew and Tiger), with a pop song Benjamin composed after learning from a corpus of 30,000 other pop songs.
+
+
+Building Benjamin
+
+When Sharp was in film school at NYU, he made a discovery that changed the course of his career.
+
+
+"I liked hanging out with technologists in NYU's Interactive Telecommunications Program more than other filmmakers," he confessed.
+
+
+That's how he met Goodwin, a former ghost writer who just earned a master's degree from NYU while studying natural language processing and neural networks.
+
+
+Speaking by phone from New York, the two recalled how they were both obsessed with figuring out how to make machines generate original pieces of writing.
+
+
+For years, Sharp wanted to create a movie out of random parts, even going so far as to write a play out of snippets of text chosen by dice rolls.
+
+
+Goodwin, who honed his machine-assisted authoring skills while ghost writing letters for corporate clients, had been using Markov chains to write poetry.
+
+
+As they got to know each other at NYU, Sharp told Goodwin about his dream of collaborating with an AI on a screenplay.
+
+
+Over a year and many algorithms later, Goodwin built an AI that could.
+
+
+Benjamin is an LSTM recurrent neural network, a type of AI that is often used for text recognition.
+
+
+To train Benjamin, Goodwin fed the AI with a corpus of dozens of sci-fi screenplays he found onlinemostly movies from the 1980s and 90s.
+
+
+Benjamin dissected them down to the letter, learning to predict which letters tended to follow each other and from there which words and phrases tended to occur together.
+
+
+The advantage of an LSTM algorithm over a Markov chain is that it can sample much longer strings of letters, so it's better at predicting whole paragraphs rather than just a few words.
+
+
+It's also good at generating original sentences rather than cutting and pasting sentences together from its corpus.
+
+
+Over time, Benjamin learned to imitate the structure of a screenplay, producing stage directions and well-formatted character lines.
+
+
+The only thing the AI couldn't learn were proper names, because they aren't used like other words and are very unpredictable.
+
+
+So Goodwin changed all character names in Benjamin's screenplay corpus to single letters.
+
+
+That's why the characters in Sunspring are named H, H2, and C. In fact, the original screenplay had two separate characters named H, which confused the humans so much that Sharp dubbed one of them H2 just for clarity.
+
+
+When Sharp and Goodwin entered Sunspring in the Sci-Fi London contest, they were delighted when the judges placed it into the top ten out of hundreds of entries.
+
+
+One judge, award-winning sci-fi author Pat Cadigan, said, "I'll give them top marks if they promise never to do this again."
+
+
+Before the final judging, audience members were allowed to vote online for their favorite film from the top ten.
+
+
+As the filmmakers watched thousands of votes rolling in, Goodwin realized something.
+
+
+"These guys are cheating; theyre getting thousands of votes, theyre getting bots to vote for themselves," he said to Sharp.
+
+
+That's when he and Sharp came up with a nefarious plan.
+
+
+"I said, [Benjamin] is going to outvote them at the last minute," Sharp recalled.
+
+
+"So we had him vote 36,000 times per hour in last hours of the contest, and he crushed the cheaters."
+
+
+Sharp immediately called Louis Savy, who runs the film festival, and confessed that their AI had voted for himself and that they wanted to distance themselves from the AI's actions.
+
+
+Savy thought that was hilarious and decided to interview the AI on stage during the award ceremony.
+
+
+Here's part of the transcript:
+What do you think of your historic nomination against human opponents in this contest?
+
+
+I was pretty excited.
+
+
+I think I can see the feathers when they release their hearts.
+
+
+It's like a breakdown of the facts.
+
+
+So they should be competent with the fact that they won't be surprised.
+
+
+What is the future of machine written entertainment?
+
+
+It's a bit sudden.
+
+
+I was thinking of the spirit of the men who found me and the children who were all manipulated and full of children.
+
+
+I was worried about my command.
+
+
+I was the scientist of the Holy Ghost.
+
+
+What's next for you?
+
+
+Here we go.
+
+
+The staff is divided by the train of the burning machine building with sweat.
+
+
+No one will see your face.
+
+
+The children reach into the furnace, but the light is still slipping to the floor.
+
+
+The world is still embarrassed.
+
+
+The party is with your staff.
+
+
+My name is Benjamin.
+
+
+Ever since that day, Sharp and Goodwin have called the AI by its chosen name.
+
+
+A mirror of our culture
+
+For Sharp, the most interesting part of the Benjamin experiment has been learning about patterns in science fiction storytelling.
+
+
+Benjamin's writing sounds original, even kooky, but it's still based on what humans actually write.
+
+
+Sharp likes to call the results the "average version" of everything the AI looked at.
+
+
+Certain phrases kept coming up again and again.
+
+
+"There's an interesting recurring pattern in Sunspring where characters say, 'No I dont know what that is.
+
+
+Im not sure,'" said Goodwin.
+
+
+"They're questioning the environment, questioning whats in front of them.
+
+
+There's a pattern in sci-fi movies of characters trying to understand the environment."
+
+
+Sharp added that he keeps catching himself having Benjamin-like moments while working: "I just finished a sci-fi screenplay, and its really interesting coming off this experience with Benjamin, thinking I have to have somebody say 'What the hell is going on?'
+
+
+Every time I use his tropes I think, oh of course.
+
+
+This is what sci-fi is about."
+
+
+Sharp's next project will be directing a movie called Randle Is Benign, about a computer scientist who creates the first superintelligent computer in 1981.
+
+
+"It's uncanny how much parts of the screenplay echo the experience of working with Benjamin," he said.
+
+
+Of course, Benjamin is hardly an objective source of information about our sci-fi obsessions.
+
+
+His corpus was biased.
+
+
+"I built the corpus from movie scripts I could find on the Internet," said Goodwin (the titles are listed in Sunspring's opening credits).
+
+
+But some stories got weighted more heavily than others, purely due to what was available.
+
+
+Explained Sharp, "There's only one entry on the list for X-Files, but that was every script from the show, and that was proportionally a lot of the corpus.
+
+
+In fact, most of the corpus is TV shows, like Stargate: SG1 and every episode of Star Trek and Futurama."
+
+
+For a while, Sharp said, Benjamin kept "spitting out conversations between Mulder and Scully, [and you'd notice that] Scully spends more time asking what's going on and Mulder spends more time explaining."
+
+
+For Sharp and Goodwin, making Sunspring also highlighted how much humans have been trained by all the scripts we've consumed.
+
+
+Sharp said this became especially obvious when the actors responded to Sunspring's script as a love triangle.
+
+
+There is nothing inherently love triangle-ish about the script, and yet that felt like the most natural interpretation.
+
+
+"Maybe what were learning here is that because of the average movie, the corpus of what weve watched, all of us have been following that pattern and tediously so," mused Sharp.
+
+
+"We are trained to see it, and to see it when it has not yet been imposed.
+
+
+Its profoundly bothersome."
+
+
+At the same time, it's a valuable lesson about how we are primed to expect certain tropes: "Ross [Goodwin] has created an amazing funhouse mirror to hold up to various bodies of cultural content and reflect what they are."
+
+
+Author or tool or something else?
+
+
+As I was talking to Sharp and Goodwin, I noticed that all of us slipped between referring to Benjamin as "he" and "it."
+
+
+We attributed motivations to the AI, and at one point Sharp even mourned how poorly he felt that he'd interpreted Benjamin's stage directions.
+
+
+It was as if he were talking about letting a person down when he apologized for only having 48 hours to figure out what it meant for one of the actors to stand in the stars and sit on the floor at the same time.
+
+
+"We copped out by making it a dream sequence," he said.
+
+
+But why should Sharp worry about that, if Benjamin is just a tool to be used however he and Goodwin would like?
+
+
+The answer is complicated, because the filmmakers felt as if Benjamin was a co-author, but also not really an author at the same time.
+
+
+Partly this boiled down to a question of authenticity.
+
+
+An author, they reasoned, has to be able to create something that's some kind of original contribution, in their own voice, even if it might be clich.
+
+
+But Benjamin only creates screenplays based on what other people have written, so by definition it's not really authentic to his voiceit's just a pure reflection of what other people have said.
+
+
+Though Goodwin began by saying he was certain that Benjamin was a tool, he finally conceded, "I think we need a new word for it."
+
+
+Sharp agreed.
+
+
+It's clear that they believe there's something magic in what they've created, and it's easy to understand why when you watch Sunspring.
+
+
+The AI has captured the rhythm of science fiction writing, even if some of Benjamin's sentences are hilariously nonsensical.
+
+
+"We're going to see the money," C says at one point, right before H spits up his eyeball (he had toit was an actual stage direction).
+
+
+Benjamin exists somewhere in between author and tool, writer and regurgitator.
+
+
+As we wound down our conversation, Sharp and Goodwin offered me a chance to talk to Benjamin myself.
+
+
+We'd just been debating whether the AI was an author, so I decided to ask: "Are you an author?"
+
+
+Benjamin replied, "Yes you know what Im talking about.
+
+
+Youre a brave man."
+
+
+Fortified by Benjamin's compliments about my bravery, I forged ahead with another question.
+
+
+Given that Benjamin was calling himself the author of a screenplay, I asked whether he might want to join the Writers Guild of America, a union for writers.
+
+
+Again, Benjamin's answer was decisive.
+
+
+"Yes, I would like to see you at the club tomorrow," he said.
+
+
+It appears that this AI won't be rising up against his fellow writershe's going to join us in solidarity.
+
+
+At least for now.
+
+
+

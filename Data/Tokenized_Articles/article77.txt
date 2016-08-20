@@ -1,0 +1,121 @@
+Are High Stress Decisions Best Made by Bots?
+
+
+If someone asked you to define intelligence, how would you respond?
+
+
+The question elicits significantly different answers based on whom you ask.
+
+
+Ask people to define artificial intelligence and the conflicting answers only multiply.
+
+
+Not only are there multiple schools of thought within the field of AI, but the term itself stands on a word that were still only beginning to understand.
+
+
+This was the elephant in the room at BootstrapLabs' Applied Artificial Intelligence Conference last week in San Francisco.
+
+
+Some speakers rejected the term AI altogether, and used a slew of replacements, while others couldnt get enough of it.
+
+
+Nigel Duffy, CTO of Sentient, an AI enterprise platform, isnt too worried about this problem.
+
+
+Hes concerned with the actual actions and behaviors of these intelligent systems in the world.
+
+
+One area thats particularly hot, Duffy says, is in industries dependent on rapid decision-making in closed feedback loopslike high-frequency trading in finance.
+
+
+High frequency trading, a form of algorithmic buying and selling of assets, accounts for a big portion of daily trades in some financial markets.
+
+
+Based on instructions coded in software, computers can complete large trades in fractions of a second.
+
+
+If you think about high-frequency trading, says Duffy, the systems observe the org flow, orient, decide if theres an imbalance and whether to trade, place the trade, observe the outcome, and decide whether to cancel that order, double down, or place a bid.
+
+
+Financial trading requires high stakes speed and accuracy, even though certain decisions are actually fairly simple.
+
+
+Sentient is interested in more fully automating feedback loops like these in finance and other industries with an old US Air Force decision-making framework called the OODA loop.
+
+
+Duffy outlined how the four components of their intelligent systems mirror the four-part OODA loop framework.
+
+
+1.Observe: The system observes the world, taking in information from text, images, video, audio, industrial sensors, and the like, and then differentiates the information.
+
+
+(For example, it differentiates a bicycle from a chair.)
+
+
+2.
+
+
+Orient: The system aggregates the information and orients itself.
+
+
+It incorporates new observations, updates its understanding, and then reasons in relation to its goals and how to best achieve them.
+
+
+3.
+
+
+Decide: The system plans, considers alternatives, and then makes a decision.
+
+
+4.
+
+
+Act: The system takes action.
+
+
+Building an intelligent system to operate within a closed feedback loop allows software to understand, plan, and act more autonomously.
+
+
+This may bring about smarter financial algorithms and the automation of other kinds of decisions too.
+
+
+Medicine, for example, is another industry in which closed feedback loops occur frequently.
+
+
+As the technology evolves, Sentient hopes to tackle problems outside of finance and e-commerce, like optimizing decision-making in hospital ICU units.
+
+
+Like traders, ICU workers make fast decisions under pressureonly the stakes are even higher.
+
+
+Human decision-making slows down the process and raises the risk of error.
+
+
+The hope is to introduce automation where it makes sense.
+
+
+Duffy says, In hospitals, decisions are made all the time based on intuition and gut, when they could potentially be made in a much more reasoned way.
+
+
+Its unclear how long it will take Sentient to develop a system capable of making medical decisions on behalf of doctors.
+
+
+The scope of information these systems can currently observe and act on is still limited.
+
+
+Rather than looking at an entire complex system they can only perform within specific problem sets.
+
+
+But the focus is clearuse computers and software to eliminate unnecessary abstraction and lag time from decision-making.
+
+
+Undoubtedly, there will be ethical questions, like whether its okay to take humans out of decisions that ultimately impact humans.
+
+
+There are risks and benefits in high-frequency trading, for example, and the same will hold in other areas too.
+
+
+Even as machines get more intelligent and automate traditionally human-centric activities, the goal should be to minimize risks and maximize the practical benefit.
+
+
+

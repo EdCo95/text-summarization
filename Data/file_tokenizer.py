@@ -5,7 +5,7 @@ from nltk.tokenize import sent_tokenize
 import os
 
 # Defines the number of files to tokenize
-NUMBER_OF_FILES = 12
+NUMBER_OF_FILES = 100
 
 # Iterate over all of the files
 for i in range(1, NUMBER_OF_FILES + 1):
@@ -35,6 +35,7 @@ for i in range(1, NUMBER_OF_FILES + 1):
     fp = open(filename_to_write, "w+")
 
     for sentence in sentences:
+        #sentence = sentence.replace('\n', '')
         fp.write(sentence + "\n\n\n")
 
     # Close the file for writing

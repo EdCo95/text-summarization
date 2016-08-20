@@ -1,0 +1,179 @@
+Yes, There Have Been Aliens
+LAST month astronomers from the Kepler spacecraft team announced the discovery of 1,284 new planets, all orbiting stars outside our solar system.
+
+
+The total number of such exoplanets confirmed via Kepler and other methods now stands at more than 3,000.
+
+
+This represents a revolution in planetary knowledge.
+
+
+A decade or so ago the discovery of even a single new exoplanet was big news.
+
+
+Not anymore.
+
+
+Improvements in astronomical observation technology have moved us from retail to wholesale planet discovery.
+
+
+We now know, for example, that every star in the sky likely hosts at least one planet.
+
+
+But planets are only the beginning of the story.
+
+
+What everyone wants to know is whether any of these worlds has aliens living on it.
+
+
+Does our newfound knowledge of planets bring us any closer to answering that question?
+
+
+A little bit, actually, yes.
+
+
+In a paper published in the May issue of the journal Astrobiology, the astronomer Woodruff Sullivan and I show that while we do not know if any advanced extraterrestrial civilizations currently exist in our galaxy, we now have enough information to conclude that they almost certainly existed at some point in cosmic history.
+
+
+Among scientists, the probability of the existence of an alien society with which we might make contact is discussed in terms of something called the Drake equation.
+
+
+In 1961, the National Academy of Sciences asked the astronomer Frank Drake to host a scientific meeting on the possibilities of interstellar communication.
+
+
+Since the odds of contact with alien life depended on how many advanced extraterrestrial civilizations existed in the galaxy, Drake identified seven factors on which that number would depend, and incorporated them into an equation.
+
+
+The first factor was the number of stars born each year.
+
+
+The second was the fraction of stars that had planets.
+
+
+After that came the number of planets per star that traveled in orbits in the right locations for life to form (assuming life requires liquid water).
+
+
+The next factor was the fraction of such planets where life actually got started.
+
+
+Then came factors for the fraction of life-bearing planets on which intelligence and advanced civilizations (meaning radio signal-emitting) evolved.
+
+
+The final factor was the average lifetime of a technological civilization.
+
+
+Drakes equation was not like Einsteins E=mc2.
+
+
+It was not a statement of a universal law.
+
+
+It was a mechanism for fostering organized discussion, a way of understanding what we needed to know to answer the question about alien civilizations.
+
+
+In 1961, only the first factor  the number of stars born each year  was understood.
+
+
+And that level of ignorance remained until very recently.
+
+
+Thats why discussions of extraterrestrial civilizations, no matter how learned, have historically boiled down to mere expressions of hope or pessimism.
+
+
+What, for example, is the fraction of planets that form life?
+
+
+Optimists might marshal sophisticated molecular biological models to argue for a large fraction.
+
+
+Pessimists then cite their own scientific data to argue for a fraction closer to 0.
+
+
+But with only one example of a life-bearing planet (ours), its hard to know who is right.
+
+
+Or consider the average lifetime of a civilization.
+
+
+Humans have been using radio technology for only about 100 years.
+
+
+How much longer will our civilization last?
+
+
+A thousand more years?
+
+
+A hundred thousand more?
+
+
+Ten million more?
+
+
+If the average lifetime for a civilization is short, the galaxy is likely to be unpopulated most of the time.
+
+
+Once again, however, with only one example to draw from, its back to a battle between pessimists and optimists.
+
+
+But our new planetary knowledge has removed some of the uncertainty from this debate.
+
+
+Three of the seven terms in Drakes equation are now known.
+
+
+We know the number of stars born each year.
+
+
+We know that the percentage of stars hosting planets is about 100.
+
+
+And we also know that about 20 to 25 percent of those planets are in the right place for life to form.
+
+
+This puts us in a position, for the first time, to say something definitive about extraterrestrial civilizations  if we ask the right question.
+
+
+In our recent paper, Professor Sullivan and I did this by shifting the focus of Drakes equation.
+
+
+Instead of asking how many civilizations currently exist, we asked what the probability is that ours is the only technological civilization that has ever appeared.
+
+
+By asking this question, we could bypass the factor about the average lifetime of a civilization.
+
+
+This left us with only three unknown factors, which we combined into one biotechnical probability: the likelihood of the creation of life, intelligent life and technological capacity.
+
+
+You might assume this probability is low, and thus the chances remain small that another technological civilization arose.
+
+
+But what our calculation revealed is that even if this probability is assumed to be extremely low, the odds that we are not the first technological civilization are actually high.
+
+
+Specifically, unless the probability for evolving a civilization on a habitable-zone planet is less than one in 10 billion trillion, then we are not the first.
+
+
+To give some context for that figure: In previous discussions of the Drake equation, a probability for civilizations to form of one in 10 billion per planet was considered highly pessimistic.
+
+
+According to our finding, even if you grant that level of pessimism, a trillion civilizations still would have appeared over the course of cosmic history.
+
+
+In other words, given what we now know about the number and orbital positions of the galaxys planets, the degree of pessimism required to doubt the existence, at some point in time, of an advanced extraterrestrial civilization borders on the irrational.
+
+
+In science an important step forward can be finding a question that can be answered with the data at hand.
+
+
+Our paper did just this.
+
+
+As for the big question  whether any other civilizations currently exist  we may have to wait a long while for relevant data.
+
+
+But we should not underestimate how far we have come in a short time.
+
+
+
