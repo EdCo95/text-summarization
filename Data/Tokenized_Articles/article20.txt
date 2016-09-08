@@ -1,12 +1,12 @@
-Exclusive: Apple acquires Turi in major exit for Seattle-based machine learning and AI startup
+1Exclusive: Apple acquires Turi in major exit for Seattle-based machine learning and AI startup
 
-Machine learning and artificial intelligence startup Turi has been acquired by Apple in a deal characterized as a blockbuster exit for the Seattle-based company, formerly known as Dato and GraphLab, GeekWire has learned.
-
-
-The acquisition reflects a larger push by Apple into artificial intelligence and machine learning.
+1Machine learning and artificial intelligence startup Turi has been acquired by Apple in a deal characterized as a blockbuster exit for the Seattle-based company, formerly known as Dato and GraphLab, GeekWire has learned.
 
 
-It also promises to further increase the Cupertino, Calif.-based companys presence in the Seattle region, where Apple has been building an engineering outpost for the past two years.
+1The acquisition reflects a larger push by Apple into artificial intelligence and machine learning.
+
+
+1It also promises to further increase the Cupertino, Calif.-based companys presence in the Seattle region, where Apple has been building an engineering outpost for the past two years.
 
 
 Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans, said Apple in a statement when contacted by GeekWire about the deal, its standard comment after making such acquisitions.
@@ -21,13 +21,13 @@ Sources close to the deal pegged the purchase price at around $200 million, mark
 Carlos Guestrin, the University of Washington professor who founded the company, declined to comment when GeekWire stopped by the companys office Friday morning.
 
 
-According to people familiar with the acquisition, Turis team is expected to remain in the Seattle region and continue to grow as Apple builds out further expertise in data science, artificial intelligence and machine learning.
+1According to people familiar with the acquisition, Turis team is expected to remain in the Seattle region and continue to grow as Apple builds out further expertise in data science, artificial intelligence and machine learning.
 
 
 Turi recently hosted a closely-watched Data Science Summit in San Francisco, in an indication of its leadership position in the field.
 
 
-Apples plans for Turis technology are not clear, but the company has been making a broad push into artificial intelligence through an expansion of its Siri personal assistant and related technologies.
+1Apples plans for Turis technology are not clear, but the company has been making a broad push into artificial intelligence through an expansion of its Siri personal assistant and related technologies.
 
 
 This is Apples second Seattle-related acquisition in the past two years.
@@ -36,13 +36,13 @@ This is Apples second Seattle-related acquisition in the past two years.
 In 2014, the tech giant bought Union Bay Networks, a stealthy cloud networking startup, which ultimately led to Apple opening an engineering office in Seattle.
 
 
-Turi lets developers build apps with machine learning and artificial intelligence capabilities that automatically scale and tune.
+1Turi lets developers build apps with machine learning and artificial intelligence capabilities that automatically scale and tune.
 
 
 Its products which include the Turi Machine Learning Platform, GraphLab Create, Turi Distributed, and Turi Predictive Services  are largely designed to help large and small organizations make better sense of data.
 
 
-Use cases include recommendation engines, fraud detection, predicting customer churn, sentiment analysis, and customer segmentation.
+1Use cases include recommendation engines, fraud detection, predicting customer churn, sentiment analysis, and customer segmentation.
 
 
 The company began as an open-source project at Carnegie Mellon in 2009 under Guestrins guidance.
@@ -78,7 +78,7 @@ The two companies went back-and-forth for the next several months, deadlocked in
 Ultimately Dato was forced to rebrand again, changing its name to Turi earlier this month.
 
 
-Turi is one of several Seattle-area companies developing machine learning and artificial intelligence technology.
+1Turi is one of several Seattle-area companies developing machine learning and artificial intelligence technology.
 
 
 Some say the region is poised to be an epicenter for the emerging industry.
@@ -97,6 +97,3 @@ Apple reported $231 billion in cash in its most recent earnings report.
 
 
 We continue to look and we stay very active in the M&A market, Cook said at the time.
-
-
-

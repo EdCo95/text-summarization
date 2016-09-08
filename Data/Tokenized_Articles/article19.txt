@@ -1,4 +1,4 @@
-Googles Demis Hassabis on using artificial intelligence on everything from climate change to aging.
+1Googles Demis Hassabis on using artificial intelligence on everything from climate change to aging.
 
 
 The following is a condensed and edited interview with Demis Hassabis, CEO, DeepMind Technologies.
@@ -10,7 +10,7 @@ What does DeepMind do?
 Our stated mission is to solve intelligence, and we use the word solve, because it can mean a few things.
 
 
-It means to understand intelligence, fundamentally understand it, and re-create it artificially.
+1It means to understand intelligence, fundamentally understand it, and re-create it artificially.
 
 
 If you look at how civilization has been built and everything humans have achieved, its down to our intelligence.
@@ -19,7 +19,7 @@ If you look at how civilization has been built and everything humans have achiev
 Its our minds that have set us apart.
 
 
-So it would seem if you could solve intelligence in this way Im talking about and make machines smart, then you could do all sorts of incredible things with that.
+1So it would seem if you could solve intelligence in this way Im talking about and make machines smart, then you could do all sorts of incredible things with that.
 
 
 When you talk to Larry Page or other top executives at Google, are they saying, Where are we on this?
@@ -46,7 +46,7 @@ Its more that kind of question.
 Or, if we think about robotics, at what point are we ready to do those things?
 
 
-Does that mean talking about technologies youre developing at DeepMind that may be ready to be used in Google products?
+1Does that mean talking about technologies youre developing at DeepMind that may be ready to be used in Google products?
 
 
 Yeah, thats right.
@@ -67,7 +67,7 @@ Thats already yielded some great results, actually.
 I think I can talk about this now.
 
 
-Weve used AI to save like 15 percent of the power usage in the data centers, which is huge saving in terms of cost but also great for the environment.
+1Weve used AI to save like 15 percent of the power usage in the data centers, which is huge saving in terms of cost but also great for the environment.
 
 
 They were very surprised, because theyd already optimized it.
@@ -100,7 +100,7 @@ Well, it depends on how much sleep deprivation I keep getting, I think, because 
 So I am a little bit worried about that.
 
 
-I think its many decades away for full AI.
+1I think its many decades away for full AI.
 
 
 I think its feasible.
@@ -135,7 +135,7 @@ Thats what I really want to build the AI for.
 Thats what Ive always dreamed about doing.
 
 
-Thats why Ive been working on AI my whole life: I see it as the fastest way to make amazing progress in science.
+1Thats why Ive been working on AI my whole life: I see it as the fastest way to make amazing progress in science.
 
 
 Say you succeed and create a super intelligence.
@@ -159,16 +159,16 @@ Actually Eric Schmidt [executive chairman of Alphabet, Googles parent] has menti
 Weve talked to him.
 
 
-We think that AI has to be used for the benefit of everyone.
+1We think that AI has to be used for the benefit of everyone.
 
 
-It should be used in a transparent way, and we should build it in an open way, which weve been doing with publishing everything we write.
+1It should be used in a transparent way, and we should build it in an open way, which weve been doing with publishing everything we write.
 
 
 There should be scrutiny and checks and balances on that.
 
 
-I think ultimately the control of this technology should belong to the world, and we need to think about how thats done.
+1I think ultimately the control of this technology should belong to the world, and we need to think about how thats done.
 
 
 Certainly, I think the benefits of it should accrue to everyone.
@@ -219,13 +219,13 @@ He was my game tester and my guinea pig.
 Basically, from then on I just thought, Wow, this would be so cool if you could get computers to think and reason and offload some of your thinking to it.
 
 
-There was one interesting thing that still tickles me nowthis idea of setting off your machine to do a task for you.
+1There was one interesting thing that still tickles me now this idea of setting off your machine to do a task for you.
 
 
-Youre going to sleep, it continues to solve it, and you wake up, and there is the solution.
+1Youre going to sleep, it continues to solve it, and you wake up, and there is the solution.
 
 
-It feels like an extension of your mind that you are able to continue to do work while youre asleep or even not thinking about the problem.
+1It feels like an extension of your mind that you are able to continue to do work while youre asleep or even not thinking about the problem.
 
 
 It seemed obvious to me if you could solve intelligence, then you could use it.
@@ -234,7 +234,7 @@ It seemed obvious to me if you could solve intelligence, then you could use it.
 It would be like magic, like Arthur C. Clarke says.
 
 
-It does feel like the closest thing to magic, and I think we can use it for incredible good to solve all sorts of really pressing issues that we have, from climate to healthy aging and so on.
+1It does feel like the closest thing to magic, and I think we can use it for incredible good to solve all sorts of really pressing issues that we have, from climate to healthy aging and so on.
 
 
 I think that having more intelligence in the world would be very useful.
@@ -265,6 +265,3 @@ It just hasnt held true.
 
 
 The sum is greater than the individual parts.
-
-
-
